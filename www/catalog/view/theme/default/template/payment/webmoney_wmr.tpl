@@ -1,4 +1,4 @@
-<form action="<?php echo $action; ?>" accept-charset="utf-8" method="post" id="payment">
+<form action="<?php //echo $action; ?>" accept-charset="utf-8" method="post" id="payment">
 	<input type="hidden" name="LMI_PAYMENT_AMOUNT" value="<?php echo $amount; ?>">
 	<input type="hidden" name="LMI_PAYMENT_DESC" value="<?php echo $description; ?>">
 	<input type="hidden" name="LMI_PAYMENT_NO" value="<?php echo $order_id; ?>">
