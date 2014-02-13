@@ -46,19 +46,22 @@ class ControllerAffiliatePayment extends Controller {
 		$this->data['heading_title'] = $this->language->get('heading_title');
 		
 		$this->data['text_your_payment'] = $this->language->get('text_your_payment');
-		$this->data['text_cheque'] = $this->language->get('text_cheque');
-		$this->data['text_paypal'] = $this->language->get('text_paypal');
-		$this->data['text_bank'] = $this->language->get('text_bank');
+		//$this->data['text_cheque'] = $this->language->get('text_cheque');
+		//$this->data['text_paypal'] = $this->language->get('text_paypal');
+		//$this->data['text_bank'] = $this->language->get('text_bank');
+		$this->data['text_sberbank'] = $this->language->get('text_sberbank');
+		$this->data['text_qiwi'] = $this->language->get('text_qiwi');
+		$this->data['text_mailRos'] = $this->language->get('text_mailRos');
 		
-		$this->data['entry_tax'] = $this->language->get('entry_tax');
+		//$this->data['entry_tax'] = $this->language->get('entry_tax');
 		$this->data['entry_payment'] = $this->language->get('entry_payment');
-		$this->data['entry_cheque'] = $this->language->get('entry_cheque');
+		/*$this->data['entry_cheque'] = $this->language->get('entry_cheque');
 		$this->data['entry_paypal'] = $this->language->get('entry_paypal');
 		$this->data['entry_bank_name'] = $this->language->get('entry_bank_name');
 		$this->data['entry_bank_branch_number'] = $this->language->get('entry_bank_branch_number');
 		$this->data['entry_bank_swift_code'] = $this->language->get('entry_bank_swift_code');
 		$this->data['entry_bank_account_name'] = $this->language->get('entry_bank_account_name');
-		$this->data['entry_bank_account_number'] = $this->language->get('entry_bank_account_number');
+		$this->data['entry_bank_account_number'] = $this->language->get('entry_bank_account_number');*/
 
 		$this->data['button_continue'] = $this->language->get('button_continue');
 		$this->data['button_back'] = $this->language->get('button_back');
@@ -69,23 +72,23 @@ class ControllerAffiliatePayment extends Controller {
 			$affiliate_info = $this->model_affiliate_affiliate->getAffiliate($this->affiliate->getId());
 		}
 
-		if (isset($this->request->post['tax'])) {
+		/*if (isset($this->request->post['tax'])) {
     		$this->data['tax'] = $this->request->post['tax'];
 		} elseif (!empty($affiliate_info)) {
 			$this->data['tax'] = $affiliate_info['tax'];		
 		} else {
 			$this->data['tax'] = '';
-		}
+		}*/
 		
 		if (isset($this->request->post['payment'])) {
     		$this->data['payment'] = $this->request->post['payment'];
 		} elseif (!empty($affiliate_info)) {
 			$this->data['payment'] = $affiliate_info['payment'];			
 		} else {
-			$this->data['payment'] = 'cheque';
+			$this->data['payment'] = 'sberbank';
 		}
 
-		if (isset($this->request->post['cheque'])) {
+	/*	if (isset($this->request->post['cheque'])) {
     		$this->data['cheque'] = $this->request->post['cheque'];
 		} elseif (!empty($affiliate_info)) {
 			$this->data['cheque'] = $affiliate_info['cheque'];			
@@ -139,7 +142,7 @@ class ControllerAffiliatePayment extends Controller {
 			$this->data['bank_account_number'] = $affiliate_info['bank_account_number'];			
 		} else {
 			$this->data['bank_account_number'] = '';
-		}
+		}*/
 		
 		$this->data['back'] = $this->url->link('affiliate/account', '', 'SSL');
 

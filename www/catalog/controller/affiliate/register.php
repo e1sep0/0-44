@@ -54,9 +54,12 @@ class ControllerAffiliateRegister extends Controller {
     	$this->data['text_your_address'] = $this->language->get('text_your_address');
 		$this->data['text_payment'] = $this->language->get('text_payment');
     	$this->data['text_your_password'] = $this->language->get('text_your_password');
-		$this->data['text_cheque'] = $this->language->get('text_cheque');
-		$this->data['text_paypal'] = $this->language->get('text_paypal');
-		$this->data['text_bank'] = $this->language->get('text_bank');
+		//$this->data['text_cheque'] = $this->language->get('text_cheque');
+		//$this->data['text_paypal'] = $this->language->get('text_paypal');
+		//$this->data['text_bank'] = $this->language->get('text_bank');
+		$this->data['text_sberbank'] = $this->language->get('text_sberbank');
+		$this->data['text_qiwi'] = $this->language->get('text_qiwi');
+		$this->data['text_mailRos'] = $this->language->get('text_mailRos');
 				
     	$this->data['entry_firstname'] = $this->language->get('entry_firstname');
     	$this->data['entry_lastname'] = $this->language->get('entry_lastname');
@@ -71,15 +74,15 @@ class ControllerAffiliateRegister extends Controller {
     	$this->data['entry_city'] = $this->language->get('entry_city');
     	$this->data['entry_country'] = $this->language->get('entry_country');
     	$this->data['entry_zone'] = $this->language->get('entry_zone');
-		$this->data['entry_tax'] = $this->language->get('entry_tax');
+		//$this->data['entry_tax'] = $this->language->get('entry_tax');
 		$this->data['entry_payment'] = $this->language->get('entry_payment');
-		$this->data['entry_cheque'] = $this->language->get('entry_cheque');
+		/*$this->data['entry_cheque'] = $this->language->get('entry_cheque');
 		$this->data['entry_paypal'] = $this->language->get('entry_paypal');
 		$this->data['entry_bank_name'] = $this->language->get('entry_bank_name');
 		$this->data['entry_bank_branch_number'] = $this->language->get('entry_bank_branch_number');
 		$this->data['entry_bank_swift_code'] = $this->language->get('entry_bank_swift_code');
 		$this->data['entry_bank_account_name'] = $this->language->get('entry_bank_account_name');
-		$this->data['entry_bank_account_number'] = $this->language->get('entry_bank_account_number');
+		$this->data['entry_bank_account_number'] = $this->language->get('entry_bank_account_number');*/
     	$this->data['entry_password'] = $this->language->get('entry_password');
     	$this->data['entry_confirm'] = $this->language->get('entry_confirm');
 
@@ -241,19 +244,19 @@ class ControllerAffiliateRegister extends Controller {
 		
     	$this->data['countries'] = $this->model_localisation_country->getCountries();
 
-		if (isset($this->request->post['tax'])) {
+		/*if (isset($this->request->post['tax'])) {
     		$this->data['tax'] = $this->request->post['tax'];
 		} else {
 			$this->data['tax'] = '';
-		}
+		}*/
 		
 		if (isset($this->request->post['payment'])) {
     		$this->data['payment'] = $this->request->post['payment'];
 		} else {
-			$this->data['payment'] = 'cheque';
+			$this->data['payment'] = 'sberbank';
 		}
 
-		if (isset($this->request->post['cheque'])) {
+		/*if (isset($this->request->post['cheque'])) {
     		$this->data['cheque'] = $this->request->post['cheque'];
 		} else {
 			$this->data['cheque'] = '';
@@ -293,7 +296,7 @@ class ControllerAffiliateRegister extends Controller {
     		$this->data['bank_account_number'] = $this->request->post['bank_account_number'];
 		} else {
 			$this->data['bank_account_number'] = '';
-		}
+		}*/
 																		
 		if (isset($this->request->post['password'])) {
     		$this->data['password'] = $this->request->post['password'];

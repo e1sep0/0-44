@@ -514,9 +514,12 @@ class ControllerSaleAffiliate extends Controller {
 		$this->data['text_select'] = $this->language->get('text_select');
 		$this->data['text_none'] = $this->language->get('text_none');
     	$this->data['text_wait'] = $this->language->get('text_wait');
-		$this->data['text_cheque'] = $this->language->get('text_cheque');
+		/*$this->data['text_cheque'] = $this->language->get('text_cheque');
 		$this->data['text_paypal'] = $this->language->get('text_paypal');
-		$this->data['text_bank'] = $this->language->get('text_bank');
+		$this->data['text_bank'] = $this->language->get('text_bank');*/
+		$this->data['text_sberbank'] = $this->language->get('text_sberbank');
+		$this->data['text_qiwi'] = $this->language->get('text_qiwi');
+		$this->data['text_mailRos'] = $this->language->get('text_mailRos');
 				
     	$this->data['entry_firstname'] = $this->language->get('entry_firstname');
     	$this->data['entry_lastname'] = $this->language->get('entry_lastname');
@@ -834,7 +837,7 @@ class ControllerSaleAffiliate extends Controller {
       		$this->data['payment'] = 'cheque';
     	}	
 
-		if (isset($this->request->post['cheque'])) {
+		/*if (isset($this->request->post['cheque'])) {
       		$this->data['cheque'] = $this->request->post['cheque'];
     	} elseif (!empty($affiliate_info)) { 
 			$this->data['cheque'] = $affiliate_info['cheque'];
@@ -888,7 +891,7 @@ class ControllerSaleAffiliate extends Controller {
 			$this->data['bank_account_number'] = $affiliate_info['bank_account_number'];
 		} else {
       		$this->data['bank_account_number'] = '';
-    	}
+    	}*/
 																												
     	if (isset($this->request->post['status'])) {
       		$this->data['status'] = $this->request->post['status'];

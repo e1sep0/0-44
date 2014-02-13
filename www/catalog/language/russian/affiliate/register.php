@@ -14,6 +14,9 @@ $_['text_your_password']        = 'Пароль';
 $_['text_cheque']               = 'Чек';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Банковский перевод';
+$_['text_sberbank']             = 'Сбербанк РФ';
+$_['text_qiwi']                 = 'Электронные деньги QIWI,WM';
+$_['text_mailRos']              = 'Перевод наличными почтой России';
 $_['text_agree']                = 'Я прочитал <a class="colorbox" href="%s" alt="%s"><b>%s</b></a> и согласен с условиями';
 
 // Entry

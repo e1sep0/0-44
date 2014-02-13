@@ -10,6 +10,9 @@ $_['text_balance']              = 'Баланс:';
 $_['text_cheque']               = 'Чек';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Банковкий перевод';
+$_['text_sberbank']             = 'Сбербанк РФ';
+$_['text_qiwi']                 = 'Электронные деньги QIWI,WM';
+$_['text_mailRos']              = 'Перевод наличными почтой России';
 
 // Column
 $_['column_name']               = 'Имя партнера';

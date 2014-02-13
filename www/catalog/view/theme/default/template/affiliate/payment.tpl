@@ -11,18 +11,18 @@
     <div class="content">
       <table class="form">
         <tbody>
-          <tr>
+          <!--<tr>
             <td><?php echo $entry_tax; ?></td>
             <td><input type="text" name="tax" value="<?php echo $tax; ?>" /></td>
-          </tr>
+          </tr>-->
           <tr>
             <td><?php echo $entry_payment; ?></td>
-            <td><?php if ($payment == 'cheque') { ?>
-              <input type="radio" name="payment" value="cheque" id="cheque" checked="checked" />
+            <!--<td><?php if ($payment == 'sberbank') { ?>
+              <input type="radio" name="payment" value="sberbank" id="sberbank" checked="checked" />
               <?php } else { ?>
-              <input type="radio" name="payment" value="cheque" id="cheque" />
+              <input type="radio" name="payment" value="sberbank" id="sberbank" />
               <?php } ?>
-              <label for="cheque"><?php echo $text_cheque; ?></label>
+              <label for="sberbank"><?php echo $text_sberbank; ?></label>
               <?php if ($payment == 'paypal') { ?>
               <input type="radio" name="payment" value="paypal" id="paypal" checked="checked" />
               <?php } else { ?>
@@ -34,7 +34,25 @@
               <?php } else { ?>
               <input type="radio" name="payment" value="bank" id="bank" />
               <?php } ?>
-              <label for="bank"><?php echo $text_bank; ?></label></td>
+              <label for="bank"><?php echo $text_bank; ?></label></td>-->
+              <td><?php if ($payment == 'sberbank') { ?>
+              <input type="radio" name="payment" value="sberbank" id="sberbank" checked="checked" />
+              <?php } else { ?>
+              <input type="radio" name="payment" value="sberbank" id="sberbank" />
+              <?php } ?>
+              <label for="sberbank"><?php echo $text_sberbank; ?></label>
+              <?php if ($payment == 'qiwi') { ?>
+              <input type="radio" name="payment" value="qiwi" id="qiwi" checked="checked" />
+              <?php } else { ?>
+              <input type="radio" name="payment" value="qiwi" id="qiwi" />
+              <?php } ?>
+              <label for="qiwi"><?php echo $text_qiwi; ?></label>
+              <?php if ($payment == 'mailRos') { ?>
+              <input type="radio" name="payment" value="mailRos" id="mailRos" checked="checked" />
+              <?php } else { ?>
+              <input type="radio" name="payment" value="mailRos" id="mailRos" />
+              <?php } ?>
+              <label for="mailRos"><?php echo $text_mailRos; ?></label></td>
           </tr>
         </tbody>
         <tbody id="payment-cheque" class="payment">
