@@ -1,0 +1,2238 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="rus_tov.files/filelist.xml">
+<link rel=Edit-Time-Data href="rus_tov.files/editdata.mso">
+<link rel=OLE-Object-Data href="rus_tov.files/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>prestizh-2</o:LastAuthor>
+  <o:LastSaved>2014-02-14T07:49:16Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:" ";}
+@page
+	{margin:.98in .79in .98in .79in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Cyr";
+	mso-generic-font-family:auto;
+	mso-font-charset:204;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Обычный;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Cyr";
+	mso-generic-font-family:auto;
+	mso-font-charset:204;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid black;
+	white-space:normal;}
+.xl25
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid black;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	white-space:normal;}
+.xl26
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	white-space:normal;}
+.xl27
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	white-space:normal;}
+.xl28
+	{mso-style-parent:style0;
+	mso-number-format:"mmm\/yy";
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	white-space:normal;}
+.xl29
+	{mso-style-parent:style0;
+	border:.5pt solid black;
+	white-space:normal;}
+.xl30
+	{mso-style-parent:style0;
+	mso-number-format:"dd\/mmm";
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	white-space:normal;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Лист 1</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:DoNotDisplayGridlines/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>2</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>8760</x:WindowHeight>
+  <x:WindowWidth>19320</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>30</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+<meta name=CREATED content="0;0">
+<meta name=CHANGED content="20140213;22524494">
+</head>
+
+<body link=blue vlink=purple lang=ru-RU dir=LTR>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1343 style='border-collapse:
+ collapse;table-layout:fixed;width:1009pt'>
+ <col width=145 style='mso-width-source:userset;mso-width-alt:5302;width:109pt'>
+ <col width=173 span=2 style='mso-width-source:userset;mso-width-alt:6326;
+ width:130pt'>
+ <col width=60 style='mso-width-source:userset;mso-width-alt:2194;width:45pt'>
+ <col width=256 style='mso-width-source:userset;mso-width-alt:9362;width:192pt'>
+ <col width=48 style='mso-width-source:userset;mso-width-alt:1755;width:36pt'>
+ <col width=102 style='mso-width-source:userset;mso-width-alt:3730;width:77pt'>
+ <col width=68 style='mso-width-source:userset;mso-width-alt:2486;width:51pt'>
+ <col width=256 style='mso-width-source:userset;mso-width-alt:9362;width:192pt'>
+ <col width=62 style='mso-width-source:userset;mso-width-alt:2267;width:47pt'>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl24 width=145 style='height:12.75pt;width:109pt'>Category</td>
+  <td class=xl25 width=173 style='width:130pt'>Sub Category</td>
+  <td class=xl25 width=173 style='width:130pt'>3rd Category</td>
+  <td class=xl25 width=60 style='width:45pt'>SKU</td>
+  <td class=xl25 width=256 style='width:192pt'>Name</td>
+  <td class=xl25 width=48 style='width:36pt'>Price</td>
+  <td class=xl25 width=102 style='width:77pt'>Dimension(cm)</td>
+  <td class=xl25 width=68 style='width:51pt'>Weight(g)</td>
+  <td class=xl25 width=256 style='width:192pt'>Description</td>
+  <td class=xl25 width=62 style='width:47pt'>Package</td>
+ </tr>
+ <tr height=527 style='height:395.25pt'>
+  <td height=527 style='height:395.25pt'><span style='font-weight:medium'>Аксессуары
+  для Apple</span></td>
+  <td class=xl26 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4481G</td>
+  <td class=xl27 width=256 style='width:192pt'>Glittery Внешний корпус для
+  IPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="32509">янв.89</td>
+  <td class=xl27 width=102 style='width:77pt'>12.5*6.3*1</td>
+  <td class=xl27 width=68 style='width:51pt'>14.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:450pt;border-collapse:collapse;&quot;
+  class=&quot;ke-zeroborder&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;600&quot;&gt;
+  &lt;colgroup&gt; &lt;col style=&quot;width:120pt;mso-width-source:userset;mso-width-alt:5120;&quot;
+  width=&quot;160&quot; /&gt; &lt;col
+  style=&quot;width:330pt;mso-width-source:userset;mso-width-alt:14080;&quot;
+  width=&quot;440&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:450pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;20&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:46.5pt;mso-height-source:userset;&quot;
+  height=&quot;62&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:450pt;height:46.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;62&quot; width=&quot;600&quot; colspan=&quot;2&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Подходит для модели
+  iPhone 5C&lt;br /&gt; Защита от пыли и царапин&lt;br /&gt; Прямой доступ ко
+  всем кнопкам, элементам управления и портам &lt;br /&gt; Открытый экран для удобства
+  эксплуатации&lt;br /&gt; Простота установки и снятия &lt;br /&gt; Дизайн
+  Glittery делает его отличным украшением для вашего iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot; height=&quot;20&quot;&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Общие
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span style=&quot;font-family:Arial;font-size:small;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;440&quot;&gt;&lt;span style=&quot;font-family:Arial;font-size:small;&quot;&gt;Пластик&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Зеленый&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=544 style='height:408.0pt'>
+  <td height=544 class=xl29 width=145 style='height:408.0pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4608B</td>
+  <td class=xl27 width=256 style='width:192pt'>Пластиковый бампер для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="32509">янв.89</td>
+  <td class=xl27 width=102 style='width:77pt'>14*8*2</td>
+  <td class=xl27 width=68 style='width:51pt'>16.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:450pt;border-collapse:collapse;&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;600&quot;&gt;
+  &lt;colgroup&gt; &lt;col
+  style=&quot;width:120pt;mso-width-source:userset;mso-width-alt:5120;&quot;
+  width=&quot;160&quot; /&gt; &lt;col
+  style=&quot;width:330pt;mso-width-source:userset;mso-width-alt:14080;&quot;
+  width=&quot;440&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:450pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;20&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:52.5pt;mso-height-source:userset;&quot;
+  height=&quot;70&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:450pt;height:52.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;70&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Разработан
+  специально для iPhone 5C&lt;br /&gt; Защита от царапин, ударов и пыли&lt;br
+  /&gt; Прямой доступ ко всем кнопкам, элементам управления и портам&lt;br
+  /&gt; Простота установки и удаления&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt;
+  &lt;tr style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Общие
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Пластик&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;19&quot; width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Бампер&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Черный&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; width=&quot;440&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=510 style='height:382.5pt'>
+  <td height=510 class=xl26 width=145 style='height:382.5pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4598X</td>
+  <td class=xl27 width=256 style='width:192pt'>Пластиковый корпус для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="47150">фев.29</td>
+  <td class=xl27 width=102 style='width:77pt'>12.5*6*1</td>
+  <td class=xl27 width=68 style='width:51pt'>23.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:473pt;border-collapse:collapse;&quot;
+  class=&quot;ke-zeroborder&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;630&quot;&gt;
+  &lt;colgroup&gt; &lt;col style=&quot;width:128pt;mso-width-source:userset;mso-width-alt:5440;&quot;
+  width=&quot;170&quot; /&gt; &lt;col
+  style=&quot;width:345pt;mso-width-source:userset;mso-width-alt:14720;&quot;
+  width=&quot;460&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15.75pt;&quot; height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:silver;width:473pt;height:15.75pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;21&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:71.25pt;mso-height-source:userset;&quot;
+  height=&quot;95&quot;&gt; &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:473pt;height:71.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl68&quot; height=&quot;95&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-family:Arial;font-size:small;&quot;&gt;Подходит
+  к модели iPhone 5C&lt;br /&gt; Защищает от царапин, пыли и ударов&lt;br /&gt;
+  Свободный доступ ко всем кнопкам, управления и портам &lt;br /&gt; Отличный
+  Аксессуар для iPhone&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15.75pt;&quot; height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:silver;height:15.75pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;21&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Общие
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;&quot; height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl66&quot; height=&quot;19&quot; width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Материа&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl66&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Пластик&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;&quot;
+  height=&quot;19&quot;&gt; &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl66&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl66&quot; width=&quot;460&quot;&gt;&lt;span style=&quot;font-family:Arial;font-size:small;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl66&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Шаблон&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl66&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Cartoon big
+  eye&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;&quot; height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl66&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl66&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=527 style='height:395.25pt'>
+  <td height=527 class=xl26 width=145 style='height:395.25pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4599X</td>
+  <td class=xl27 width=256 style='width:192pt'>Пластиковый корпус для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="47150">фев.29</td>
+  <td class=xl27 width=102 style='width:77pt'>12.5*6*1</td>
+  <td class=xl27 width=68 style='width:51pt'>23.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:473pt;border-collapse:collapse;&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;630&quot;&gt;
+  &lt;colgroup&gt; &lt;col
+  style=&quot;width:128pt;mso-width-source:userset;mso-width-alt:5440;&quot;
+  width=&quot;170&quot; /&gt; &lt;col
+  style=&quot;width:345pt;mso-width-source:userset;mso-width-alt:14720;&quot;
+  width=&quot;460&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15.75pt;&quot; height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:silver;width:473pt;height:15.75pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl68&quot; height=&quot;21&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:71.25pt;mso-height-source:userset;&quot;
+  height=&quot;95&quot;&gt; &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:473pt;height:71.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl69&quot; height=&quot;95&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Подходит
+  к модели iPhone 5C&lt;br /&gt; Защищает от царапин, пыли и ударов&lt;br /&gt;
+  Прямой доступ ко всем кнопкам управления и портам &lt;br /&gt; Отличный
+  Аксессуар для iPhone &lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt;&quot;
+  height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:silver;height:15.75pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl68&quot; height=&quot;21&quot; colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;&quot; height=&quot;19&quot;&gt; &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Пластик&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Шаблон&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Картинка
+  девушка&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;&quot; height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=510 style='height:382.5pt'>
+  <td height=510 class=xl26 width=145 style='height:382.5pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4600X</td>
+  <td class=xl27 width=256 style='width:192pt'>Пластиковый корпус для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="47150">фев.29</td>
+  <td class=xl27 width=102 style='width:77pt'>12.5*6*1</td>
+  <td class=xl27 width=68 style='width:51pt'>23.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:473pt;border-collapse:collapse;&quot;
+  class=&quot;ke-zeroborder&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;630&quot;&gt;
+  &lt;colgroup&gt; &lt;col style=&quot;width:128pt;mso-width-source:userset;mso-width-alt:5440;&quot;
+  width=&quot;170&quot; /&gt; &lt;col
+  style=&quot;width:345pt;mso-width-source:userset;mso-width-alt:14720;&quot;
+  width=&quot;460&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15.75pt;&quot; height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:silver;width:473pt;height:15.75pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl68&quot; height=&quot;21&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:71.25pt;mso-height-source:userset;&quot;
+  height=&quot;95&quot;&gt; &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:473pt;height:71.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl69&quot; height=&quot;95&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-family:Arial;font-size:small;&quot;&gt;Подходит
+  к модели iPhone 5C&lt;br /&gt; Защищает от царапин, пыли и ударов&lt;br /&gt;
+  Прямой доступ ко всем кнопкам управления и портам &lt;br /&gt; Отличный
+  Аксессуар для iPhone&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15.75pt;&quot; height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:silver;height:15.75pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl68&quot; height=&quot;21&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;&quot; height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot; width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Пластик&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;&quot;
+  height=&quot;19&quot;&gt; &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span style=&quot;font-family:Arial;font-size:small;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Шаблон&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Картинка
+  девушка&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;&quot; height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=527 style='height:395.25pt'>
+  <td height=527 class=xl26 width=145 style='height:395.25pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4606X</td>
+  <td class=xl27 width=256 style='width:192pt'>Пластиковый корпус для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="36161">янв.99</td>
+  <td class=xl27 width=102 style='width:77pt'>12.5*6*1</td>
+  <td class=xl27 width=68 style='width:51pt'>14.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:473pt;border-collapse:collapse;&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;630&quot;&gt;
+  &lt;colgroup&gt; &lt;col
+  style=&quot;width:128pt;mso-width-source:userset;mso-width-alt:5440;&quot;
+  width=&quot;170&quot; /&gt; &lt;col
+  style=&quot;width:345pt;mso-width-source:userset;mso-width-alt:14720;&quot;
+  width=&quot;460&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15.75pt;&quot; height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:silver;width:473pt;height:15.75pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl68&quot; height=&quot;21&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:72.75pt;mso-height-source:userset;&quot;
+  height=&quot;97&quot;&gt; &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:473pt;height:72.75pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl69&quot; height=&quot;97&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Подходит
+  к модели iPhone 5C&lt;br /&gt; Защищает от царапин, пыли и ударов&lt;br /&gt;
+  Прямой доступ ко всем кнопкам управления и портам &lt;br /&gt; Леопардовый
+  рисунок&lt;br /&gt; Отличный Аксессуар для iPhone&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt;&quot;
+  height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:silver;height:15.75pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl68&quot; height=&quot;21&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;&quot; height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot; width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Пластик&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;&quot;
+  height=&quot;19&quot;&gt; &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Шаблон&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Леопард&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=544 style='height:408.0pt'>
+  <td height=544 class=xl26 width=145 style='height:408.0pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4407T</td>
+  <td class=xl27 width=256 style='width:192pt'>Наклейка для iPhone 5C
+  (прозрачная)</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="47119">янв.29</td>
+  <td class=xl27 width=102 style='width:77pt'>16*9*0.2</td>
+  <td class=xl27 width=68 style='width:51pt'>11.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:450pt;border-collapse:collapse;&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;600&quot;&gt;
+  &lt;colgroup&gt; &lt;col
+  style=&quot;width:120pt;mso-width-source:userset;mso-width-alt:5120;&quot;
+  width=&quot;160&quot; /&gt; &lt;col
+  style=&quot;width:330pt;mso-width-source:userset;mso-width-alt:14080;&quot;
+  width=&quot;440&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:450pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:55.5pt;mso-height-source:userset;&quot;
+  height=&quot;74&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:450pt;height:55.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;74&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Защищает
+  экран и заднюю часть вашего телефона от царапин и пыли&lt;br /&gt; Отлично
+  защитит внешний вид Вашего телефона&lt;br /&gt; Простота установки и удаления
+  не оставляет следов&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Пленка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot; height=&quot;19&quot;&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;19&quot; width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Функция&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Защита и
+  украшение&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=527 style='height:395.25pt'>
+  <td height=527 class=xl26 width=145 style='height:395.25pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP3953L</td>
+  <td class=xl27 width=256 style='width:192pt'>Резиновый чехол для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="36161">янв.99</td>
+  <td class=xl27 width=102 style='width:77pt'>12.8*6.3*1.2</td>
+  <td class=xl27 width=68 style='width:51pt'>19.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:450pt;border-collapse:collapse;&quot;
+  class=&quot;ke-zeroborder&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;600&quot;&gt;
+  &lt;colgroup&gt; &lt;col style=&quot;width:120pt;mso-width-source:userset;mso-width-alt:5120;&quot;
+  width=&quot;160&quot; /&gt; &lt;col
+  style=&quot;width:330pt;mso-width-source:userset;mso-width-alt:14080;&quot;
+  width=&quot;440&quot; /&gt; &lt;/colgroup&gt;&lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:450pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:52.5pt;mso-height-source:userset;&quot;
+  height=&quot;70&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:450pt;height:52.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;70&quot; width=&quot;600&quot; colspan=&quot;2&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Отлично подходит к
+  модели iPhone 5C&lt;br /&gt; Защищает от царапин и пыли&lt;br /&gt; Прямой
+  доступ ко всем кнопкам управления и портам &lt;br /&gt; Оформлен круглыми
+  отверстиями &lt;br /&gt; Открытый дизайн для удобства
+  эксплуатации&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Основные характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;ТПУ резины&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Голубой&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>* Case</td>
+ </tr>
+ <tr height=527 style='height:395.25pt'>
+  <td height=527 class=xl26 width=145 style='height:395.25pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP3964X</td>
+  <td class=xl27 width=256 style='width:192pt'>Пластиковый корпус для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="36161">янв.99</td>
+  <td class=xl27 width=102 style='width:77pt'>12.5*6.5*1</td>
+  <td class=xl27 width=68 style='width:51pt'>17.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:450pt;border-collapse:collapse;&quot;
+  class=&quot;ke-zeroborder&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;600&quot;&gt;
+  &lt;colgroup&gt; &lt;col style=&quot;width:120pt;mso-width-source:userset;mso-width-alt:5120;&quot;
+  width=&quot;160&quot; /&gt; &lt;col
+  style=&quot;width:330pt;mso-width-source:userset;mso-width-alt:14080;&quot;
+  width=&quot;440&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:450pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:52.5pt;mso-height-source:userset;&quot;
+  height=&quot;70&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:450pt;height:52.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;70&quot; width=&quot;600&quot; colspan=&quot;2&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Отлично подходит для
+  модели iPhone 5C&lt;br /&gt; Защищает от царапин и пыли&lt;br /&gt; Прямой
+  доступ ко всем кнопкам управления и портам &lt;br /&gt; Открытый дизайн для удобства
+  эксплуатации&lt;br /&gt; Простота установки и
+  удаления&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Пластик&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Шаблон&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;&quot;&gt;Звезда&lt;span
+  style=&quot;mso-spacerun:yes;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=527 style='height:395.25pt'>
+  <td height=527 class=xl26 width=145 style='height:395.25pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4023L</td>
+  <td class=xl27 width=256 style='width:192pt'>Пластиковый корпус для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="36161">янв.99</td>
+  <td class=xl27 width=102 style='width:77pt'>12.5*6*1</td>
+  <td class=xl27 width=68 style='width:51pt'>12.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:450pt;border-collapse:collapse;&quot;
+  class=&quot;ke-zeroborder&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;600&quot;&gt;
+  &lt;colgroup&gt; &lt;col style=&quot;width:120pt;mso-width-source:userset;mso-width-alt:5120;&quot;
+  width=&quot;160&quot; /&gt; &lt;col
+  style=&quot;width:330pt;mso-width-source:userset;mso-width-alt:14080;&quot;
+  width=&quot;440&quot; /&gt; &lt;/colgroup&gt;&lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:450pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:52.5pt;mso-height-source:userset;&quot;
+  height=&quot;70&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:450pt;height:52.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;70&quot; width=&quot;600&quot; colspan=&quot;2&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Отлично подходит для
+  модели iPhone 5C&lt;br /&gt; Защищает от царапин и пыли&lt;br /&gt; Прямой
+  внешний доступ ко всем кнопкам управления и портам&lt;br /&gt; Простота
+  установки и удаления&lt;br /&gt; Открытый дизайн для удобства
+  эксплуатации&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Основные характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Пластик&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Голубой&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Шаблон&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;3D
+  капля&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot; width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=527 style='height:395.25pt'>
+  <td height=527 class=xl26 width=145 style='height:395.25pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP3952B</td>
+  <td class=xl27 width=256 style='width:192pt'>Силиконовый корпус для iPhone 5C</td>
+  <td class=xl30 align=right width=48 style='width:36pt' x:num="41884">02.сен</td>
+  <td class=xl27 width=102 style='width:77pt'>12.8*6.3*1.2</td>
+  <td class=xl27 width=68 style='width:51pt'>26.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:450pt;border-collapse:collapse;&quot;
+  class=&quot;ke-zeroborder&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;600&quot;&gt;
+  &lt;colgroup&gt; &lt;col style=&quot;width:120pt;mso-width-source:userset;mso-width-alt:5120;&quot;
+  width=&quot;160&quot; /&gt; &lt;col
+  style=&quot;width:330pt;mso-width-source:userset;mso-width-alt:14080;&quot;
+  width=&quot;440&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:450pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:52.5pt;mso-height-source:userset;&quot;
+  height=&quot;70&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:450pt;height:52.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;70&quot; width=&quot;600&quot; colspan=&quot;2&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Отлично подходит для
+  моедли iPhone 5C&lt;br /&gt; Защищает от царапин и пыли&lt;br /&gt; Прямой
+  доступ ко всем кнопкам управления и портам &lt;br /&gt; Оформлен круглыми отверстиями&lt;br
+  /&gt; Открытый дизайн для удобства эксплуатации&lt;br /&gt; Изготовлен из
+  мягкого силикона, приятный на ощупь&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt;
+  &lt;tr style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:Arial;font-size:small;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span style=&quot;font-family:Arial;font-size:small;&quot;&gt;Силикон&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Черный&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>* Case</td>
+ </tr>
+ <tr height=546 style='height:409.5pt'>
+  <td height=546 class=xl26 width=145 style='height:409.5pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP3847T</td>
+  <td class=xl27 width=256 style='width:192pt'>Пластиковый корпус для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="14246">янв.39</td>
+  <td class=xl27 width=102 style='width:77pt'>12.5*6*1</td>
+  <td class=xl27 width=68 style='width:51pt'>7.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;p style=&quot;margin:0cm 0cm
+  0pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span
+  style=&quot;font-family:'Arial, sans-serif';&quot;&gt;&lt;span
+  style=&quot;font-size:29px;line-height:44px;&quot;&gt;&lt;b&gt;&lt;br /&gt;
+  &lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; &lt;table
+  style=&quot;width:473pt;border-collapse:collapse;&quot;
+  class=&quot;ke-zeroborder&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;
+  width=&quot;630&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:128pt;mso-width-source:userset;mso-width-alt:5440;&quot;
+  width=&quot;170&quot; /&gt;&lt;col
+  style=&quot;width:345pt;mso-width-source:userset;mso-width-alt:14720;&quot;
+  width=&quot;460&quot; /&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr
+  style=&quot;height:15pt;&quot; height=&quot;20&quot;&gt;&lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:473pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;20&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:13.5pt;&quot; height=&quot;18&quot;&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:473pt;height:13.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;18&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Отлично
+  подходит для модели iPhone 5C &lt;br /&gt; Защищает от царапин, ударов и
+  пыли&lt;br /&gt; Прямой доступ ко всем кнопкам управления и портам&lt;br
+  /&gt; Матовое покрытие, приятный на ощупь&lt;br /&gt; Открытый дизайн, прост
+  в установке и удалении&lt;br /&gt; Добавляет красочный штрих к вашему iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15pt;&quot;
+  height=&quot;20&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:13.5pt;&quot; height=&quot;18&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:13.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;18&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:13.5pt;&quot; height=&quot;18&quot;&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:13.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;18&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Пластик&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:13.5pt;&quot; height=&quot;18&quot;&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:13.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;18&quot; width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Функции&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Защита и
+  украшение&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:12.75pt;mso-height-source:userset;&quot; height=&quot;17&quot;&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:12.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;17&quot; width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>Case*,</td>
+ </tr>
+ <tr height=544 style='height:408.0pt'>
+  <td height=544 class=xl26 width=145 style='height:408.0pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4276R</td>
+  <td class=xl27 width=256 style='width:192pt'>Силиконовый корпус для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="25235">фев.69</td>
+  <td class=xl27 width=102 style='width:77pt'>13*6*1.2</td>
+  <td class=xl27 width=68 style='width:51pt'>22.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:450pt;border-collapse:collapse;&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;600&quot;&gt;
+  &lt;colgroup&gt; &lt;col
+  style=&quot;width:120pt;mso-width-source:userset;mso-width-alt:5120;&quot;
+  width=&quot;160&quot; /&gt; &lt;col
+  style=&quot;width:330pt;mso-width-source:userset;mso-width-alt:14080;&quot;
+  width=&quot;440&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:450pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;20&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:52.5pt;mso-height-source:userset;&quot;
+  height=&quot;70&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:450pt;height:52.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;70&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Отлично
+  подходит для модели iPhone 5C&lt;br /&gt; Защищает от царапин, ударов и
+  пыли&lt;br /&gt; Прямой доступ ко всем кнопкам управления и портам&lt;br
+  /&gt; Открытый дизайн для удобства эксплуатации&lt;br /&gt; Простота
+  установки и удаления&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Силикон&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Красный&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot; height=&quot;19&quot;&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;19&quot; width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Шаблон&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Шоколад&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=510 style='height:382.5pt'>
+  <td height=510 class=xl26 width=145 style='height:382.5pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP3862B</td>
+  <td class=xl27 width=256 style='width:192pt'>Прозрачный пластиковый корпус с
+  Резиновым бампером для iPhone 5C</td>
+  <td class=xl30 align=right width=48 style='width:36pt' x:num="41884">02.сен</td>
+  <td class=xl27 width=102 style='width:77pt'>12.7*6.2*1.2</td>
+  <td class=xl27 width=68 style='width:51pt'>16.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:473pt;border-collapse:collapse;&quot;
+  class=&quot;ke-zeroborder&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;630&quot;&gt;
+  &lt;colgroup&gt; &lt;col style=&quot;width:128pt;mso-width-source:userset;mso-width-alt:5440;&quot;
+  width=&quot;170&quot; /&gt; &lt;col
+  style=&quot;width:345pt;mso-width-source:userset;mso-width-alt:14720;&quot;
+  width=&quot;460&quot; /&gt; &lt;/colgroup&gt;&lt;tbody&gt; &lt;tr
+  style=&quot;height:15.75pt;mso-height-source:userset;&quot;
+  height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:473pt;height:15.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;21&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:54.75pt;mso-height-source:userset;&quot;
+  height=&quot;73&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:473pt;height:54.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;73&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Отлично подходит
+  для модели iPhone 5C&lt;br /&gt; Защищает от царапин и пыли&lt;br /&gt;Прямой
+  доступ ко всем кнопкам управления и портам&lt;br /&gt; Цвет, дизайн,
+  контраст, добавить яркий штрих к вашему iPhone 5C&lt;br /&gt; Открытый дизайн
+  для удобства эксплуатации&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15.75pt;&quot; height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;21&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Пластиковые и ТПУ
+  резины&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Черный и прозрачный&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>Case*,</td>
+ </tr>
+ <tr height=544 style='height:408.0pt'>
+  <td height=544 class=xl26 width=145 style='height:408.0pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP3862W</td>
+  <td class=xl27 width=256 style='width:192pt'>Прозрачный пластиковый корпус с
+  Резиновым бампером для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="36161">янв.99</td>
+  <td class=xl27 width=102 style='width:77pt'>12.7*6.2*1.2</td>
+  <td class=xl27 width=68 style='width:51pt'>16.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:473pt;border-collapse:collapse;&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;630&quot;&gt;
+  &lt;colgroup&gt; &lt;col
+  style=&quot;width:128pt;mso-width-source:userset;mso-width-alt:5440;&quot;
+  width=&quot;170&quot; /&gt; &lt;col
+  style=&quot;width:345pt;mso-width-source:userset;mso-width-alt:14720;&quot;
+  width=&quot;460&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15.75pt;mso-height-source:userset;&quot;
+  height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:473pt;height:15.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;21&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:54.75pt;mso-height-source:userset;&quot;
+  height=&quot;73&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:473pt;height:54.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;73&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Отлично
+  подходит для модели iPhone 5C&lt;br /&gt; Защищает от царапин и пыли&lt;br
+  /&gt; Прямой доступ ко всем кнопкам управления и портам&lt;br /&gt;Цвет,
+  дизайн, контраст, добавить яркий штрих к вашему iPhone 5C&lt;br /&gt;
+  Открытый дизайн для удобства эксплуатации&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt;
+  &lt;tr style=&quot;height:15.75pt;&quot; height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;21&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Пластик и ТПУ
+  Резина&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Белый и
+  прозрачный&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>* Case</td>
+ </tr>
+ <tr height=544 style='height:408.0pt'>
+  <td height=544 class=xl26 width=145 style='height:408.0pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4023Y</td>
+  <td class=xl27 width=256 style='width:192pt'>Пластиковый корпус для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="36161">янв.99</td>
+  <td class=xl27 width=102 style='width:77pt'>12.5*6*1</td>
+  <td class=xl27 width=68 style='width:51pt'>12.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:450pt;border-collapse:collapse;&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;600&quot;&gt;
+  &lt;colgroup&gt; &lt;col
+  style=&quot;width:120pt;mso-width-source:userset;mso-width-alt:5120;&quot;
+  width=&quot;160&quot; /&gt; &lt;col
+  style=&quot;width:330pt;mso-width-source:userset;mso-width-alt:14080;&quot;
+  width=&quot;440&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:450pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:52.5pt;mso-height-source:userset;&quot;
+  height=&quot;70&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:450pt;height:52.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;70&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Отлично
+  подходит для модели iPhone 5C&lt;br /&gt; Защищает от пыли и царапин&lt;br
+  /&gt; Прямой доступ ко всем кнопкам управления и портам&lt;br /&gt; Простота
+  установки и удаления&lt;br /&gt; Открытый дизайн для удобства
+  эксплуатации&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Пластик&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot; width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Желтый&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Шаблон&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;3D
+  капля&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=527 style='height:395.25pt'>
+  <td height=527 class=xl26 width=145 style='height:395.25pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP3847L</td>
+  <td class=xl27 width=256 style='width:192pt'>Матовый Пластиковый корпус для
+  iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="47119">янв.29</td>
+  <td class=xl27 width=102 style='width:77pt'>12.5*6*1</td>
+  <td class=xl27 width=68 style='width:51pt'>7.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:473pt;border-collapse:collapse;&quot;
+  class=&quot;ke-zeroborder&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;630&quot;&gt;
+  &lt;colgroup&gt; &lt;col style=&quot;width:128pt;mso-width-source:userset;mso-width-alt:5440;&quot;
+  width=&quot;170&quot; /&gt; &lt;col
+  style=&quot;width:345pt;mso-width-source:userset;mso-width-alt:14720;&quot;
+  width=&quot;460&quot; /&gt; &lt;/colgroup&gt;&lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;&quot; height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:473pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;20&quot; width=&quot;630&quot; colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:13.5pt;&quot; height=&quot;18&quot;&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:473pt;height:13.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;18&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Отлично
+  подходит для модели iPhone 5C &lt;br /&gt; Защищает от царапин, ударов и
+  пыли&lt;br /&gt; Прямой доступ ко всем кнопкам управления и портам&lt;br
+  /&gt; Матовое покрытие, приятный на ощупь&lt;br /&gt; Открытый дизайн для
+  удобства эксплуатации, прост в установке и удалении&lt;br /&gt; Отличный
+  Аксессуар для iPhone 5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15pt;&quot; height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl68&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:13.5pt;&quot; height=&quot;18&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:13.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;18&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:13.5pt;&quot; height=&quot;18&quot;&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:13.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;18&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Пластик&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:13.5pt;&quot; height=&quot;18&quot;&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:13.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;18&quot; width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Функции&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Защита и
+  украшение&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:12.75pt;mso-height-source:userset;&quot; height=&quot;17&quot;&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:12.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;17&quot; width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-family:Verdana;font-size:small;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>Case*,</td>
+ </tr>
+ <tr height=527 style='height:395.25pt'>
+  <td height=527 class=xl26 width=145 style='height:395.25pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP3953G</td>
+  <td class=xl27 width=256 style='width:192pt'>Резиновый чехол для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="36161">янв.99</td>
+  <td class=xl27 width=102 style='width:77pt'>12.8*6.3*1.2</td>
+  <td class=xl27 width=68 style='width:51pt'>19.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:450pt;border-collapse:collapse;&quot;
+  class=&quot;ke-zeroborder&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;600&quot;&gt;
+  &lt;colgroup&gt; &lt;col style=&quot;width:120pt;mso-width-source:userset;mso-width-alt:5120;&quot;
+  width=&quot;160&quot; /&gt; &lt;col
+  style=&quot;width:330pt;mso-width-source:userset;mso-width-alt:14080;&quot;
+  width=&quot;440&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:450pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:52.5pt;mso-height-source:userset;&quot;
+  height=&quot;70&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:450pt;height:52.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;70&quot; width=&quot;600&quot; colspan=&quot;2&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Отлично подходит для
+  модели iPhone 5C&lt;br /&gt; Защищает от царапин и пыли&lt;br /&gt; Прямой
+  доступ ко всем кнопкам управления и портам &lt;br /&gt; Оформление круглыми отверстиями
+  &lt;br /&gt; Открытый дизайн для удобства
+  эксплуатации&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;ТПУ Резина&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Зеленый&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>* Case</td>
+ </tr>
+ <tr height=544 style='height:408.0pt'>
+  <td height=544 class=xl26 width=145 style='height:408.0pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4193W</td>
+  <td class=xl27 width=256 style='width:192pt'>Чехол для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="32568">мар.89</td>
+  <td class=xl27 width=102 style='width:77pt'>12.8*7*2.5</td>
+  <td class=xl27 width=68 style='width:51pt'>54.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:450pt;border-collapse:collapse;&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;600&quot;&gt;
+  &lt;colgroup&gt; &lt;col
+  style=&quot;width:120pt;mso-width-source:userset;mso-width-alt:5120;&quot;
+  width=&quot;160&quot; /&gt; &lt;col
+  style=&quot;width:330pt;mso-width-source:userset;mso-width-alt:14080;&quot;
+  width=&quot;440&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:450pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:52.5pt;mso-height-source:userset;&quot;
+  height=&quot;70&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:450pt;height:52.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;70&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Отлично
+  подходит для модели iPhone 5C&lt;br /&gt; Защищает от царапин и пыли&lt;br
+  /&gt; Прямой доступ ко всем кнопкам управления и портам&lt;br /&gt; Резиновые
+  оболочка хорошо удерживает телефон&lt;br /&gt; Прошитые карманы для
+  карт&lt;br /&gt; Надежный магнитный замок&lt;br /&gt; Очень удобный и
+  стильный чехол&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;ТПУ резины и
+  искусственная кожа&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Чехол&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Белый&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=544 style='height:408.0pt'>
+  <td height=544 class=xl26 width=145 style='height:408.0pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP3862G</td>
+  <td class=xl27 width=256 style='width:192pt'>Прозрачный пластиковый корпус с
+  Резиновым бампером для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="36161">янв.99</td>
+  <td class=xl27 width=102 style='width:77pt'>12.7*6.2*1.2</td>
+  <td class=xl27 width=68 style='width:51pt'>16.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:473pt;border-collapse:collapse;&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;630&quot;&gt;
+  &lt;colgroup&gt; &lt;col
+  style=&quot;width:128pt;mso-width-source:userset;mso-width-alt:5440;&quot;
+  width=&quot;170&quot; /&gt; &lt;col
+  style=&quot;width:345pt;mso-width-source:userset;mso-width-alt:14720;&quot;
+  width=&quot;460&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15.75pt;mso-height-source:userset;&quot;
+  height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:473pt;height:15.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;21&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:54.75pt;mso-height-source:userset;&quot;
+  height=&quot;73&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:473pt;height:54.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;73&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Отлично
+  подходит для модели iPhone 5C&lt;br /&gt; Защищает от царапин и пыли&lt;br
+  /&gt; Прямой доступ ко всем кнопкам управления и портам&lt;br /&gt; Цвет,
+  дизайн, контраст, добавить яркий штрих вашему телефону&lt;br /&gt; Открытый
+  дизайн, прост в эксплуатации&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15.75pt;&quot; height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;21&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Пластик и ТПУ
+  Резина&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Зеленый и
+  прозрачный&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>* Case</td>
+ </tr>
+ <tr height=527 style='height:395.25pt'>
+  <td height=527 class=xl26 width=145 style='height:395.25pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4481S</td>
+  <td class=xl27 width=256 style='width:192pt'>Glittery Внешний корпус для
+  IPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="32509">янв.89</td>
+  <td class=xl27 width=102 style='width:77pt'>12.5*6.3*1</td>
+  <td class=xl27 width=68 style='width:51pt'>14.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:450pt;border-collapse:collapse;&quot;
+  class=&quot;ke-zeroborder&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;600&quot;&gt;
+  &lt;colgroup&gt; &lt;col style=&quot;width:120pt;mso-width-source:userset;mso-width-alt:5120;&quot;
+  width=&quot;160&quot; /&gt; &lt;col
+  style=&quot;width:330pt;mso-width-source:userset;mso-width-alt:14080;&quot;
+  width=&quot;440&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:450pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;20&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:46.5pt;mso-height-source:userset;&quot;
+  height=&quot;62&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:450pt;height:46.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;62&quot; width=&quot;600&quot; colspan=&quot;2&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Отличное решение для
+  iPhone 5C&lt;br /&gt; Защищает ваш мобильный телефон от пыли и царапин&lt;br
+  /&gt; Прямой доступ ко всем кнопкам управления и портам &lt;br /&gt; Открытый
+  дизайн для удобства эксплуатации&lt;br /&gt; Простота установки и
+  удаления&lt;br /&gt; Дизайн Glittery делает его отличным украшением для
+  вашего телефона&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;20&quot; colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span style=&quot;font-family:Arial;font-size:small;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Пластик&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;440&quot;&gt;&lt;span style=&quot;font-family:Arial;font-size:small;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Серебро&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl67&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-family:Arial;font-size:small;&quot;&gt;iPhone 5C&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=544 style='height:408.0pt'>
+  <td height=544 class=xl26 width=145 style='height:408.0pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4364X</td>
+  <td class=xl27 width=256 style='width:192pt'>Пластиковый корпус для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="32509">янв.89</td>
+  <td class=xl27 width=102 style='width:77pt'>12.5*6*1</td>
+  <td class=xl27 width=68 style='width:51pt'>13.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:473pt;border-collapse:collapse;&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;630&quot;&gt;
+  &lt;colgroup&gt; &lt;col
+  style=&quot;width:128pt;mso-width-source:userset;mso-width-alt:5440;&quot;
+  width=&quot;170&quot; /&gt; &lt;col
+  style=&quot;width:345pt;mso-width-source:userset;mso-width-alt:14720;&quot;
+  width=&quot;460&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15.75pt;&quot; height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:silver;width:473pt;height:15.75pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl68&quot; height=&quot;21&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:68.25pt;mso-height-source:userset;&quot;
+  height=&quot;91&quot;&gt; &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:473pt;height:68.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl69&quot; height=&quot;91&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Отличное
+  решение для iPhone 5C&lt;br /&gt; Сверхтонкий, открытый дизайн для удобства
+  эксплуатации&lt;br /&gt; Защищает устройство от царапин, пыли и ударов&lt;br
+  /&gt; Прямой доступ ко всем кнопкам управления и портам &lt;br /&gt; Симпатичный
+  рисунок&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15.75pt;&quot; height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:silver;height:15.75pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl68&quot; height=&quot;21&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;&quot; height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Пластик&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Шаблон&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Кот, Поцелуй,
+  Рыба&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;&quot; height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:128pt;height:14.25pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#f4f5f7;border-left:#f4f5f7;background-color:transparent;width:345pt;border-top:#f4f5f7;border-right:#f4f5f7;&quot;
+  class=&quot;xl67&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;iPhone 5C&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=544 style='height:408.0pt'>
+  <td height=544 class=xl26 width=145 style='height:408.0pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP4200S</td>
+  <td class=xl27 width=256 style='width:192pt'>Защитный чехол для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="32540">фев.89</td>
+  <td class=xl27 width=102 style='width:77pt'>12.5*6*1</td>
+  <td class=xl27 width=68 style='width:51pt'>22.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:450pt;border-collapse:collapse;&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;600&quot;&gt;
+  &lt;colgroup&gt; &lt;col
+  style=&quot;width:120pt;mso-width-source:userset;mso-width-alt:5120;&quot;
+  width=&quot;160&quot; /&gt; &lt;col
+  style=&quot;width:330pt;mso-width-source:userset;mso-width-alt:14080;&quot;
+  width=&quot;440&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:450pt;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Описание&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:52.5pt;mso-height-source:userset;&quot;
+  height=&quot;70&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:450pt;height:52.5pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;70&quot; width=&quot;600&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Отличное
+  решение для iPhone 5C&lt;br /&gt; Защищает телефон от царапин и пыли&lt;br
+  /&gt; Прямой доступ ко всем кнопкам управления и портам&lt;br /&gt; Прост в
+  эксплуатации&lt;br /&gt; Придает шарм вашему IPhone 5C&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:15pt;mso-height-source:userset;&quot;
+  height=&quot;20&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;20&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Металл&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot; height=&quot;19&quot;&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot; width=&quot;160&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;Серебро&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:120pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;160&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Arial;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:330pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;440&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Arial;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>&nbsp;</td>
+ </tr>
+ <tr height=546 style='height:409.5pt'>
+  <td height=546 class=xl26 width=145 style='height:409.5pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP3862L</td>
+  <td class=xl27 width=256 style='width:192pt'>Прозрачный пластиковый корпус с
+  Резиновым бампером для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="36161">янв.99</td>
+  <td class=xl27 width=102 style='width:77pt'>12.7*6.2*1.2</td>
+  <td class=xl27 width=68 style='width:51pt'>16.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:473pt;border-collapse:collapse;&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;630&quot;&gt;
+  &lt;colgroup&gt; &lt;col
+  style=&quot;width:128pt;mso-width-source:userset;mso-width-alt:5440;&quot;
+  width=&quot;170&quot; /&gt; &lt;col
+  style=&quot;width:345pt;mso-width-source:userset;mso-width-alt:14720;&quot;
+  width=&quot;460&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15.75pt;mso-height-source:userset;&quot;
+  height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:473pt;height:15.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;21&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:54.75pt;mso-height-source:userset;&quot;
+  height=&quot;73&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:473pt;height:54.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;73&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Разработан
+  специально для iPhone 5C&lt;br /&gt; Защищает от царапин и пыли&lt;br /&gt;
+  Прямой доступ к кнопкам управления и портам&lt;br /&gt; Цвет, дизайн,
+  контраст, добавит яркий штрих вашему телефону&lt;br /&gt; Открытый дисплей,
+  прост в эксплуатации&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15.75pt;&quot; height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;21&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Пластик и ТПУ
+  Резина&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Голубой и
+  Прозрачный&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>* Case</td>
+ </tr>
+ <tr height=546 style='height:409.5pt'>
+  <td height=546 class=xl26 width=145 style='height:409.5pt;width:109pt'>Аксессуары
+  для Apple</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=173 style='width:130pt'>Аксессуары для iPhone 5C</td>
+  <td class=xl27 width=60 style='width:45pt'>IP3862R</td>
+  <td class=xl27 width=256 style='width:192pt'>Прозрачный пластиковый корпус с
+  Резиновым бампером для iPhone 5C</td>
+  <td class=xl28 align=right width=48 style='width:36pt' x:num="36161">янв.99</td>
+  <td class=xl27 width=102 style='width:77pt'>12.7*6.2*1.2</td>
+  <td class=xl27 width=68 style='width:51pt'>16.00</td>
+  <td class=xl27 width=256 style='width:192pt'>&lt;table
+  style=&quot;width:473pt;border-collapse:collapse;&quot; border=&quot;0&quot;
+  cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;630&quot;&gt;
+  &lt;colgroup&gt; &lt;col
+  style=&quot;width:128pt;mso-width-source:userset;mso-width-alt:5440;&quot;
+  width=&quot;170&quot; /&gt; &lt;col
+  style=&quot;width:345pt;mso-width-source:userset;mso-width-alt:14720;&quot;
+  width=&quot;460&quot; /&gt; &lt;tbody&gt; &lt;tr
+  style=&quot;height:15.75pt;mso-height-source:userset;&quot;
+  height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;width:473pt;height:15.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;21&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Описание:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr
+  style=&quot;height:54.75pt;mso-height-source:userset;&quot;
+  height=&quot;73&quot;&gt; &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:473pt;height:54.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl71&quot; height=&quot;73&quot; width=&quot;630&quot;
+  colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Разработан
+  специально для iPhone 5C&lt;br /&gt; Защитит от царапин и пыли&lt;br /&gt;
+  Прямой доступ ко всем кнопкам управления и портам&lt;br /&gt; Цвет, дизайн,
+  контраст, добавить яркий штрих вашему iPhone 5C&lt;br /&gt; Открытый дисплей,
+  прост в эксплуатации&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:15.75pt;&quot; height=&quot;21&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:silver;height:15.75pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl70&quot; height=&quot;21&quot;
+  colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Основные
+  характеристики:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Материал&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Пластик и ТПУ
+  Резина&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr
+  style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Тип&lt;/span&gt;&lt;/td&gt;
+  &lt;td style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Оболочка&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Цвет&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Розовый и
+  Прозрачный&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.25pt;mso-height-source:userset;&quot;
+  height=&quot;19&quot;&gt; &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:128pt;height:14.25pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; height=&quot;19&quot;
+  width=&quot;170&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;Совместимость&lt;/span&gt;&lt;/td&gt;
+  &lt;td
+  style=&quot;border-bottom:#ece9d8;border-left:#ece9d8;background-color:transparent;width:345pt;border-top:#ece9d8;border-right:#ece9d8;&quot;
+  class=&quot;xl69&quot; width=&quot;460&quot;&gt;&lt;span
+  style=&quot;font-size:small;font-family:Verdana;&quot;&gt;iPhone
+  5C&lt;/span&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;</td>
+  <td class=xl27 width=62 style='width:47pt'>* Case</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=145 style='width:109pt'></td>
+  <td width=173 style='width:130pt'></td>
+  <td width=173 style='width:130pt'></td>
+  <td width=60 style='width:45pt'></td>
+  <td width=256 style='width:192pt'></td>
+  <td width=48 style='width:36pt'></td>
+  <td width=102 style='width:77pt'></td>
+  <td width=68 style='width:51pt'></td>
+  <td width=256 style='width:192pt'></td>
+  <td width=62 style='width:47pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
