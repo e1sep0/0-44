@@ -5,22 +5,23 @@
 <!-- <meta http-equiv="Expires" content="Tue, 01 Jan 1980 00:00:00 GMT"> -->
 </head><body>
 <?php
-ini_set("max_execution_time", "600");
- $connect=mysql_connect("localhost","root","");
+ini_set("max_execution_time", "600000");
+ $connect=mysql_connect("localhost","root","hoh5wait");
  $db=mysql_select_db("ocstore");
- mysql_query("SET NAMES cp1251");
+ mysql_query("SET NAMES utf8");
  /*$phone=array();
  $txtAds=array();
  $addr=array();
  $price=array();*/
- $q="SELECT id,articul FROM articuls LIMIT 2";
-$res=mysql_query($q); 
+ $q="SELECT id,articul FROM articuls WHERE main_cat='' OR main_cat IS NULL";
+$res=mysql_query($q);
+$q=1; 
  While ($row=mysql_fetch_array($res)){
  
  if($curl = curl_init()){
  //for ($i=1322;$i<=1322;$i++){
     $cat="";
-    echo $row[1].'-';
+    //echo $row[1].'-';
     curl_setopt($curl,CURLOPT_URL,"http://ru.focalprice.com/".$row[1]."/?Currency=RUB");//http://dynamic.focalprice.com/IP2429W/
     curl_setopt($curl, CURLOPT_USERAGENT, "Chrome/32.0.1700.107");
     curl_setopt($curl, CURLOPT_ENCODING, "");
@@ -39,52 +40,53 @@ $res=mysql_query($q);
      // print_r($arr);
      //echo $arr[1];
       if($arr[2]){
-        
+       $fl=2; 
       $tcat=explode("</a>",$arr[2]);
       $cat=explode(">",$tcat[0]);
       $par_cat=$cat[1];
       }
       
       if($arr[3]){
-        
+       $fl=3; 
       $tcat=explode("</a>",$arr[3]);
       $cat=explode(">",$tcat[0]);
       $par_cat=$cat[1];
       }
       //Цена
       
-      $arr=explode("id=\"unit_price_RU\" language=\"RU\">",$out);
+      $arr=explode("id=\"unit_price_RU\" language=\"RU\">",$arr[$fl]);
       $pr=explode("</sup>",$arr[1]);
-      $price=str_replace("<sup>","",$pr[0]);
+      $price=(float)str_replace("<sup>","",$pr[0]);
       
       //Описание
       
       $topis=explode("<div id=\"summary\">",$out);
       $temp=explode("</div>",$topis[1]);
-      $opis=$temp[0];
+      $opis=trim($temp[0]);
       
       //Картинки
-      $pic=array();
-      $fl=0;
       $pics_mas=explode("<ul id=\"imgs\" class=\"list_h\">",$out);
       $mass=explode("jqimg=\"",$pics_mas[1]);
-      foreach($mass as $t){
+	  $t_pic=explode("\" jqimg2=",$mass[1]);
+	  $pic=$t_pic[0];
+      /*foreach($mass as $t){
         if($fl==1){
         $t_pic=explode("\" jqimg2=",$t);
           $pic[]=$t_pic[0];
           }
           $fl=1;
-      }
+      }*/
       
       
-    echo "".$row[0]."-$main_cat - $par_cat-$price-$opis<br>";       
-    print_r($pic);              
+   // echo "".$row[0]."-$main_cat - $par_cat-$price-$opis<br>";
+		mysql_query("UPDATE articuls SET main_cat='".$main_cat."',par_cat='".$par_cat."',price=".$price.",opis='".$opis."',pic='".$pic."' WHERE id=".$row[0]."");
+		$q++;
           
   }
-  echo "<br><br><br>";      
+ // echo "<br><br><br>";      
     }
  //   }
-    echo "Конец!";
+    echo "Конец!--$q";
    /* print_r($rubr);
     print_r($phone);
     print_r($txtAds);
