@@ -400,3 +400,104 @@
 2014-02-16 22:01:47 - PHP Notice:  Undefined variable: bank_account_name in Z:\home\ocStore\www\catalog\view\theme\default\template\affiliate\register.tpl on line 190
 2014-02-16 22:01:47 - PHP Notice:  Undefined variable: entry_bank_account_number in Z:\home\ocStore\www\catalog\view\theme\default\template\affiliate\register.tpl on line 193
 2014-02-16 22:01:47 - PHP Notice:  Undefined variable: bank_account_number in Z:\home\ocStore\www\catalog\view\theme\default\template\affiliate\register.tpl on line 194
+2014-02-17 9:52:27 - PHP Warning:  fopen(Z:\home\ocStore\www/image/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\admin\controller\common\home.php on line 65
+2014-02-17 9:52:27 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 67
+2014-02-17 9:52:27 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 69
+2014-02-17 9:52:27 - PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in Z:\home\ocStore\www\admin\controller\common\home.php on line 72
+2014-02-17 9:52:27 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\admin\controller\common\home.php on line 82
+2014-02-17 9:52:27 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 84
+2014-02-17 9:52:27 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 86
+2014-02-17 9:52:27 - PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in Z:\home\ocStore\www\admin\controller\common\home.php on line 89
+2014-02-17 9:53:07 - PHP Warning:  fopen(Z:\home\ocStore\www/image/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\admin\controller\common\home.php on line 65
+2014-02-17 9:53:07 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 67
+2014-02-17 9:53:07 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 69
+2014-02-17 9:53:07 - PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in Z:\home\ocStore\www\admin\controller\common\home.php on line 72
+2014-02-17 9:53:07 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\admin\controller\common\home.php on line 82
+2014-02-17 9:53:07 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 84
+2014-02-17 9:53:07 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 86
+2014-02-17 9:53:07 - PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in Z:\home\ocStore\www\admin\controller\common\home.php on line 89
+2014-02-17 9:53:08 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/cache.store.1392619988) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\system\library\cache.php on line 32
+2014-02-17 9:53:08 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 34
+2014-02-17 9:53:08 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 36
+2014-02-17 9:53:31 - PHP Warning:  fopen(Z:\home\ocStore\www/image/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\admin\controller\common\home.php on line 65
+2014-02-17 9:53:31 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 67
+2014-02-17 9:53:31 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 69
+2014-02-17 9:53:31 - PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in Z:\home\ocStore\www\admin\controller\common\home.php on line 72
+2014-02-17 9:53:31 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\admin\controller\common\home.php on line 82
+2014-02-17 9:53:31 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 84
+2014-02-17 9:53:31 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 86
+2014-02-17 9:53:31 - PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in Z:\home\ocStore\www\admin\controller\common\home.php on line 89
+2014-02-17 9:53:52 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/cache.store.1392620032) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\system\library\cache.php on line 32
+2014-02-17 9:53:52 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 34
+2014-02-17 9:53:52 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 36
+2014-02-17 9:53:53 - PHP Warning:  fopen(Z:\home\ocStore\www/image/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\admin\controller\common\home.php on line 65
+2014-02-17 9:53:53 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 67
+2014-02-17 9:53:53 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 69
+2014-02-17 9:53:53 - PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in Z:\home\ocStore\www\admin\controller\common\home.php on line 72
+2014-02-17 9:53:53 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\admin\controller\common\home.php on line 82
+2014-02-17 9:53:53 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 84
+2014-02-17 9:53:53 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 86
+2014-02-17 9:53:53 - PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in Z:\home\ocStore\www\admin\controller\common\home.php on line 89
+2014-02-17 9:54:14 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/cache.store.1392620054) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\system\library\cache.php on line 32
+2014-02-17 9:54:14 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 34
+2014-02-17 9:54:14 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 36
+2014-02-17 9:55:11 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\admin\controller\common\home.php on line 82
+2014-02-17 9:55:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 84
+2014-02-17 9:55:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 86
+2014-02-17 9:55:11 - PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in Z:\home\ocStore\www\admin\controller\common\home.php on line 89
+2014-02-17 9:55:11 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/cache.store.1392620111) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\system\library\cache.php on line 32
+2014-02-17 9:55:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 34
+2014-02-17 9:55:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 36
+2014-02-17 9:55:25 - PHP Warning:  fopen(Z:\home\ocStore\www/image/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in Z:\home\ocStore\www\admin\controller\common\home.php on line 65
+2014-02-17 9:55:25 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 67
+2014-02-17 9:55:25 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 69
+2014-02-17 9:55:25 - PHP Warning:  unlink(Z:\home\ocStore\www/image/cache/test) [<a href='function.unlink'>function.unlink</a>]: Permission denied in Z:\home\ocStore\www\admin\controller\common\home.php on line 76
+2014-02-17 9:55:25 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\admin\controller\common\home.php on line 82
+2014-02-17 9:55:25 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 84
+2014-02-17 9:55:25 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 86
+2014-02-17 9:55:25 - PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in Z:\home\ocStore\www\admin\controller\common\home.php on line 89
+2014-02-17 9:55:46 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/cache.store.1392620146) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\system\library\cache.php on line 32
+2014-02-17 9:55:46 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 34
+2014-02-17 9:55:46 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 36
+2014-02-17 9:57:07 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/cache.store.1392620227) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\system\library\cache.php on line 32
+2014-02-17 9:57:07 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 34
+2014-02-17 9:57:07 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 36
+2014-02-17 9:57:10 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/cache.language.1392620230) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\system\library\cache.php on line 32
+2014-02-17 9:57:10 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 34
+2014-02-17 9:57:10 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 36
+2014-02-17 9:57:10 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/cache.store.1392620230) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\system\library\cache.php on line 32
+2014-02-17 9:57:10 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 34
+2014-02-17 9:57:10 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 36
+2014-02-17 9:57:10 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/cache.store.1392620230) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\system\library\cache.php on line 32
+2014-02-17 9:57:10 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 34
+2014-02-17 9:57:10 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 36
+2014-02-17 9:57:13 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/cache.store.1392620233) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\system\library\cache.php on line 32
+2014-02-17 9:57:13 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 34
+2014-02-17 9:57:13 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 36
+2014-02-17 10:04:18 - PHP Warning:  fopen(Z:\home\ocStore\www/system/cache/cache.store.1392620658) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in Z:\home\ocStore\www\system\library\cache.php on line 32
+2014-02-17 10:04:18 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 34
+2014-02-17 10:04:18 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\system\library\cache.php on line 36
+2014-02-17 11:34:18 - PHP Warning:  fopen(Z:\home\ocStore\www/image/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in Z:\home\ocStore\www\admin\controller\common\home.php on line 65
+2014-02-17 11:34:18 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 67
+2014-02-17 11:34:18 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 69
+2014-02-17 11:34:18 - PHP Warning:  unlink(Z:\home\ocStore\www/image/cache/test) [<a href='function.unlink'>function.unlink</a>]: Permission denied in Z:\home\ocStore\www\admin\controller\common\home.php on line 76
+2014-02-17 11:34:23 - PHP Warning:  fopen(Z:\home\ocStore\www/image/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in Z:\home\ocStore\www\admin\controller\common\home.php on line 65
+2014-02-17 11:34:23 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 67
+2014-02-17 11:34:23 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 69
+2014-02-17 11:34:23 - PHP Warning:  unlink(Z:\home\ocStore\www/image/cache/test) [<a href='function.unlink'>function.unlink</a>]: Permission denied in Z:\home\ocStore\www\admin\controller\common\home.php on line 76
+2014-02-17 15:49:34 - PHP Warning:  fopen(Z:\home\ocStore\www/image/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in Z:\home\ocStore\www\admin\controller\common\home.php on line 65
+2014-02-17 15:49:34 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 67
+2014-02-17 15:49:34 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 69
+2014-02-17 15:49:34 - PHP Warning:  unlink(Z:\home\ocStore\www/image/cache/test) [<a href='function.unlink'>function.unlink</a>]: Permission denied in Z:\home\ocStore\www\admin\controller\common\home.php on line 76
+2014-02-17 17:31:38 - PHP Warning:  Division by zero in Z:\home\ocStore\www\system\library\weight.php on line 38
+2014-02-17 17:31:38 - PHP Warning:  Division by zero in Z:\home\ocStore\www\system\library\weight.php on line 38
+2014-02-17 17:32:23 - PHP Warning:  Division by zero in Z:\home\ocStore\www\system\library\weight.php on line 38
+2014-02-17 17:32:23 - PHP Warning:  Division by zero in Z:\home\ocStore\www\system\library\weight.php on line 38
+2014-02-17 17:34:11 - PHP Warning:  fopen(Z:\home\ocStore\www/image/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in Z:\home\ocStore\www\admin\controller\common\home.php on line 65
+2014-02-17 17:34:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 67
+2014-02-17 17:34:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin\controller\common\home.php on line 69
+2014-02-17 17:34:11 - PHP Warning:  unlink(Z:\home\ocStore\www/image/cache/test) [<a href='function.unlink'>function.unlink</a>]: Permission denied in Z:\home\ocStore\www\admin\controller\common\home.php on line 76
+2014-02-17 17:37:47 - PHP Warning:  Division by zero in Z:\home\ocStore\www\system\library\weight.php on line 38
+2014-02-17 17:37:47 - PHP Warning:  Division by zero in Z:\home\ocStore\www\system\library\weight.php on line 38
+2014-02-17 17:42:37 - PHP Warning:  Division by zero in Z:\home\ocStore\www\system\library\weight.php on line 38
+2014-02-17 17:42:37 - PHP Warning:  Division by zero in Z:\home\ocStore\www\system\library\weight.php on line 38
