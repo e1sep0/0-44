@@ -21,7 +21,7 @@ define('DIR_LOGS', 'Z:\home\ocStore\www/system/logs/');
 define('DB_DRIVER', 'mysql');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'hoh5wait');
 define('DB_DATABASE', 'ocstore');
 define('DB_PREFIX', 'oc_');
 ?>

@@ -4,7 +4,7 @@ Disallow: /*route=affiliate/
 Disallow: /*route=checkout/
 Disallow: /*route=product/search
 Disallow: /index.php?route=product/product*&manufacturer_id=
-Disallow: /admin
+Disallow: /admin_frolov
 Disallow: /catalog
 Disallow: /download
 Disallow: /system
@@ -29,7 +29,7 @@ Disallow: /*route=affiliate/
 Disallow: /*route=checkout/
 Disallow: /*route=product/search
 Disallow: /index.php?route=product/product*&manufacturer_id=
-Disallow: /admin
+Disallow: /admin.php
 Disallow: /catalog
 Disallow: /download
 Disallow: /system
