@@ -1,0 +1,70 @@
+<modification>
+    <id>Social discount</id>
+    <version>1</version>
+    <vqmver>2.1.6</vqmver>
+    <author>freelancer</author>
+
+    <file name="catalog/view/theme/*/template/product/product.tpl">
+        <operation>
+            <search position="after"><![CDATA[<?php if ($review_status) { ?>]]></search>
+            <add>
+                <![CDATA[
+<?php if ($this->config->get('socialdiscount_status')) { ?>
+	  <script type="text/javascript" src="//vk.com/js/api/openapi.js?92"></script>
+
+	  <script type="text/javascript">
+		  VK.init({apiId: <?php echo $this->config->get('socialdiscount_apiId'); ?>, onlyWidgets: true});
+
+		  VK.Observer.subscribe('widgets.like.liked', function() {
+			  $.ajax({
+				  url: 'index.php?route=total/socialdiscount',
+				  type: 'post',
+				  data: 'product_id=<?php echo $product_id; ?>&event=like',
+				  success: function() {
+					  $('#cart').load('index.php?route=module/cart #cart > *');
+				  }
+			  });
+		  });
+		  VK.Observer.subscribe('widgets.like.unliked', function() {
+			  $.ajax({
+				  url: 'index.php?route=total/socialdiscount',
+				  type: 'post',
+				  data: 'product_id=<?php echo $product_id; ?>&event=unlike',
+				  success: function() {
+					  $('#cart').load('index.php?route=module/cart #cart > *');
+				  }
+
+			  });
+		  });
+
+		  VK.Observer.subscribe('widgets.like.shared', function(likeCount) {
+			  $.ajax({
+				  url: 'index.php?route=total/socialdiscount',
+				  type: 'post',
+				  data: 'product_id=<?php echo $product_id; ?>&event=shared',
+				  success: function() {
+					  $('#cart').load('index.php?route=module/cart #cart > *');
+				  }
+			  });
+		  });
+		  VK.Observer.subscribe('widgets.like.unshared', function(likeCount) {
+			  $.ajax({
+				  url: 'index.php?route=total/socialdiscount',
+				  type: 'post',
+				  data: 'product_id=<?php echo $product_id; ?>&event=unshared',
+				  success: function() {
+					  $('#cart').load('index.php?route=module/cart #cart > *');
+				  }
+			  });
+		  });
+	  </script>
+
+	  <!-- Put this div tag to the place, where the Like block will be -->
+	  <div id="vk_like"></div>
+	  <script type="text/javascript">
+		  VK.Widgets.Like("vk_like", {type: "full"});
+	  </script>
+<?php } ?>]]></add>
+        </operation>
+    </file>
+</modification>

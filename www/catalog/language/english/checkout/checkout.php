@@ -31,6 +31,7 @@ $_['text_payment_method']            = 'Please select the preferred payment meth
 $_['text_comments']                  = 'Add Comments About Your Order';
 
 // Column
+$_['column_image']                   = 'Image';
 $_['column_name']                    = 'Product Name';
 $_['column_model']                   = 'Model';
 $_['column_quantity']                = 'Quantity';
@@ -46,8 +47,8 @@ $_['entry_firstname']                = 'First Name:';
 $_['entry_lastname']                 = 'Last Name:';
 $_['entry_telephone']                = 'Telephone:';
 $_['entry_fax']                      = 'Fax:';
+$_['entry_account']                  = 'Account:';
 $_['entry_company']                  = 'Company:';
-$_['entry_customer_group']           = 'Business Type:';
 $_['entry_company_id']               = 'Company ID:';
 $_['entry_tax_id']                   = 'Tax ID:';
 $_['entry_address_1']                = 'Address 1:';

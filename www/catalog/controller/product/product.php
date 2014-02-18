@@ -215,11 +215,11 @@ class ControllerProductProduct extends Controller {
 				$url .= '&limit=' . $this->request->get['limit'];
 			}
 																		
-			$this->data['breadcrumbs'][] = array(
-				'text'      => $product_info['name'],
-				'href'      => $this->url->link('product/product', $url . '&product_id=' . $this->request->get['product_id']),
-				'separator' => $this->language->get('text_separator')
-			);			
+		//	$this->data['breadcrumbs'][] = array(
+		//		'text'      => $product_info['name'],
+		//		'href'      => $this->url->link('product/product', $url . '&product_id=' . $this->request->get['product_id']),
+		//		'separator' => $this->language->get('text_separator')
+		//	);			
 			
 			if ($product_info['seo_title']) {
 				$this->document->setTitle($product_info['seo_title']);

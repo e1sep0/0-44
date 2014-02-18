@@ -302,7 +302,7 @@ class ModelCatalogProduct extends Model {
 		return $product_data;
 	}
 		
-	public function getLatestProducts($limit) {
+	public function getLatestProducts($limit) { 
 		if ($this->customer->isLogged()) {
 			$customer_group_id = $this->customer->getCustomerGroupId();
 		} else {

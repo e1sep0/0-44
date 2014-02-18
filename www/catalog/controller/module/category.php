@@ -44,7 +44,8 @@ class ControllerModuleCategory extends Controller {
 		foreach ($categories as $category) {
 			//Будем вычислять кол-во товаров в категориях только если это кол-во надо показывать
 			if ($show_product_count) {
-				$total = $this->model_catalog_product->getTotalProducts(array('filter_category_id' => $category['category_id']));
+				//$total = $this->model_catalog_product->getTotalProducts(array('filter_category_id' => $category['category_id']));
+        $total=0;
 			}
 
 			$children_data = array();

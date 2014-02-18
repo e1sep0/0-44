@@ -31,6 +31,8 @@ $_['text_payment_method']            = 'Выберите способ оплат
 $_['text_comments']                  = 'Вы можете добавить комментарий к своему заказу:';
 
 // Column
+
+$_['column_image']                   = 'Фото';
 $_['column_name']                    = 'Наименование товара';
 $_['column_model']                   = 'Модель';
 $_['column_quantity']                = 'Количество';
@@ -38,18 +40,18 @@ $_['column_price']                   = 'Цена';
 $_['column_total']                   = 'Итого';
 
 // Entry
-$_['entry_email_address']            = 'E-Mail:';
-$_['entry_email']                    = 'Почта:';
+$_['entry_email_address']            = 'E-Mail Адрес:';
+$_['entry_email']                    = 'E-Mail:';
 $_['entry_password']                 = 'Пароль:';
 $_['entry_confirm']                  = 'Подтвердите пароль:';
 $_['entry_firstname']                = 'Имя, Отчество:';
 $_['entry_lastname']                 = 'Фамилия:';
 $_['entry_telephone']                = 'Телефон:';
 $_['entry_fax']                      = 'Факс:';
+$_['entry_account']                  = 'Account:';
 $_['entry_company']                  = 'Компания:';
-$_['entry_customer_group']           = 'Тип деятельности:';
-$_['entry_company_id']               = 'Код компании:';
-$_['entry_tax_id']                   = 'Код налога:';
+$_['entry_company_id']               = 'Company ID:';
+$_['entry_tax_id']                   = 'Tax ID:';
 $_['entry_address_1']                = 'Адрес:';
 $_['entry_address_2']                = 'Адрес (продолжение):';
 $_['entry_postcode']                 = 'Индекс:';
@@ -62,18 +64,17 @@ $_['entry_shipping'] 	               = 'Адрес доставки совпад
 // Error
 $_['error_warning']                  = 'Возникла проблема при обработке вашего заказа! Если проблема возникает повторно, попробуйте изменить способ оплаты или свяжитесь с <a href="%s">администратором магазина</a>.';
 $_['error_login']                    = 'Ошибка: неверный E-Mail или пароль!';
-$_['error_approved']                 = 'Прежде чем Вы сможете войти, администрация должна одобрить Ваш аккаунт.';
+$_['error_approved']                 = 'Warning: Your account requires approval before you can login.'; 
 $_['error_exists']                   = 'Ошибка: E-Mail уже зарегистрирован!';
 $_['error_firstname']                = 'Имя должно быть от 1 до 32 символов!';
 $_['error_lastname']                 = 'Фамилия должна быть от 1 до 32 символов!';
-$_['error_email']                    = 'E-Mail введён неверно!';
+$_['error_email']                    = 'E-Mail адрес введён неверно!';
 $_['error_telephone']                = 'Номер телефона должен быть от 3 до 32 символов!';
 $_['error_password']                 = 'Пароль должен быть от 3 до 20 символов!';
 $_['error_confirm']                  = 'Пароли не совпадают!';
-$_['error_confirm']                  = 'Пароли не совпадают!';
-$_['error_company_id']               = 'Необходимо ввести регистрационный номер компании!';
-$_['error_tax_id']                   = 'Необходимо ввести ИНН!';
-$_['error_vat']                      = 'Номер НДС недействителен!';
+$_['error_company_id']               = 'Company ID required!';
+$_['error_tax_id']                   = 'Tax ID required!';
+$_['error_vat']                      = 'VAT number is invalid!';
 $_['error_address_1']                = 'Адрес должен быть от 3 до 128 символов!';
 $_['error_city']                     = 'Название города должно быть от 2 до 128 символов!';
 $_['error_postcode']                 = 'Индекс должен быть от 2 до 10 символов!';

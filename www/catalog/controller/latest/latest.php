@@ -1,4 +1,4 @@
-<?php  
+<?php
 class ControllerLatestLatest extends Controller {
 	public function index() {
 		$this->document->setTitle($this->config->get('config_title'));

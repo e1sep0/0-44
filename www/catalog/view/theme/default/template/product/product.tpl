@@ -216,13 +216,23 @@
         <?php } ?>
       </div>
       <?php if ($review_status) { ?>
+      <div id="vk_like"></div>
       <div class="review">
         <div><img src="catalog/view/theme/default/image/stars-<?php echo $rating; ?>.png" alt="<?php echo $reviews; ?>" />&nbsp;&nbsp;<a onclick="$('a[href=\'#tab-review\']').trigger('click');"><?php echo $reviews; ?></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="$('a[href=\'#tab-review\']').trigger('click');"><?php echo $text_write; ?></a></div>
-        <div class="share"><!-- AddThis Button BEGIN -->
-          <script type="text/javascript" src="http://yraaa.ru/share/share_16x16.d3sn"></script>
-		  <style type="text/css">#hidden_tags {display:none}</style>
+        <!--<div class="share"><!-- AddThis Button BEGIN -->
+         <!-- <script type="text/javascript" src="http://yraaa.ru/share/share_16x16.d3sn"></script>
+		  <style type="text/css">#hidden_tags {}</style>
           <!-- AddThis Button END --> 
-        </div>
+        <!--</div>-->
+        
+        <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+
+<script type="text/javascript">
+  VK.init({apiId: 4195579, onlyWidgets: true});
+</script>
+	  <script type="text/javascript">
+		  VK.Widgets.Like("vk_like", {type: "full"});
+	  </script>
       </div>
       <?php } ?>
     </div>

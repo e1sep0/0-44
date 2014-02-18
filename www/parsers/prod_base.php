@@ -6,17 +6,17 @@
 </head><body>
 <?php
 ini_set("max_execution_time", "600000");
- $connect=mysql_connect("localhost","root","hoh5wait");
+ $connect=mysql_connect("localhost","root","");
  $db=mysql_select_db("ocstore");
  mysql_query("SET NAMES utf8");
  /*$phone=array();
  $txtAds=array();
  $addr=array();
  $price=array();*/
- $q="SELECT * FROM articuls LIMIT 1";
+ $q="SELECT * FROM articuls1";
 $res=mysql_query($q);
  While ($row=mysql_fetch_array($res)){
-   $q1="SELECT category_id,COUNT(category_id) FROM oc_category_description WHERE name='".$row[4]."'";
+  /* $q1="SELECT category_id,COUNT(category_id) FROM oc_category_description WHERE name='".$row[4]."'";
    $res1=mysql_query($q1);
     While ($row1=mysql_fetch_array($res1)){
       if($row1[1]>1){
@@ -28,16 +28,16 @@ $res=mysql_query($q);
       }else{
         $category=$row1[0];
       } 
-    }
-	echo $category.$row[0].$row[1].$row[2].$row[3].$row[4].$row[6];
+    }*/
+	//echo $category.$row[0].$row[1].$row[2].$row[3].$row[4].$row[6];
 	$pr=(float)$row[5];
-	$price=($pr+(0.15*$pr))*35.0976;
- mysql_query("INSERT INTO oc_product (model,sku,quantity,shipping,minimum,status,weight_class_id,stock_status_id,image,price,date_available,date_added) 
-				VALUES ('-','".$row[1]."',999,1,1,1,1,5,'".str_replace("http://img.focalprice.com/550x426/IP","data",$row[7])."',".$row[5].",NOW(),NOW())");
- mysql_query("INSERT INTO oc_product_description (product_id,language_id,name,description) VALUES (".$row[0].",1,'".trim($row[2])."','".trim($row[6])."')");
- mysql_query("INSERT INTO oc_product_to_category (product_id,category_id,main_category) VALUES (".$row[0].",$category,1)");
- mysql_query("INSERT INTO oc_product_to_store (product_id,store_id) VALUES (".$row[0].",0)");              
-               
+	$price=($pr+(0.15*$pr))*40.0976;
+// mysql_query("INSERT INTO oc_product (product_id,model,sku,quantity,shipping,minimum,status,weight_class_id,stock_status_id,image,price,date_available,date_added) 
+//				VALUES (".$row[0].",'-','".$row[1]."',999,1,1,1,1,5,'".str_replace("http://img.focalprice.com/550x426/IP","data",$row[7])."',".$price.",NOW(),NOW())");
+ //mysql_query("INSERT INTO oc_product_description (product_id,language_id,name,description) VALUES (".$row[0].",1,'".trim($row[2])."','".trim($row[6])."')");
+ //mysql_query("INSERT INTO oc_product_to_category (product_id,category_id,main_category) VALUES (".$row[0].",$category,1)");
+ //mysql_query("INSERT INTO oc_product_to_store (product_id,store_id) VALUES (".$row[0].",0)");              
+   mysql_query("UPDATE oc_product SET price=$price WHERE sku='".$row[1]."'");            
 
  }
  mysql_close($connect);

@@ -6,14 +6,14 @@
 </head><body>
 <?php
 ini_set("max_execution_time", "600000");
- $connect=mysql_connect("localhost","root","hoh5wait");
+ $connect=mysql_connect("localhost","root","");
  $db=mysql_select_db("ocstore");
  mysql_query("SET NAMES utf8");
  /*$phone=array();
  $txtAds=array();
  $addr=array();
  $price=array();*/
- $q="SELECT id,articul FROM articuls WHERE main_cat='' OR main_cat IS NULL";
+ $q="SELECT id,articul,name FROM articuls WHERE price=0";
 $res=mysql_query($q);
 $q=1; 
  While ($row=mysql_fetch_array($res)){
@@ -31,7 +31,7 @@ $q=1;
     $out = curl_exec($curl);
   //  print_r($out);
    // print_r(curl_getinfo( $curl ));
-    //Категория
+    //РљР°С‚РµРіРѕСЂРёСЏ
     $arr=explode("<em>&#187;</em>",$out);
 
       $tcat=explode("</a>",$arr[1]);
@@ -52,19 +52,20 @@ $q=1;
       $cat=explode(">",$tcat[0]);
       $par_cat=$cat[1];
       }
-      //Цена
+      //Р¦РµРЅР°
       
-      $arr=explode("id=\"unit_price_RU\" language=\"RU\">",$arr[$fl]);
+      $arr=explode("id=\"unit_price_EN\" language=\"EN\">",$out);
       $pr=explode("</sup>",$arr[1]);
+      //print_r($pr);
       $price=(float)str_replace("<sup>","",$pr[0]);
       
-      //Описание
+      //РћРїРёСЃР°РЅРёРµ
       
       $topis=explode("<div id=\"summary\">",$out);
       $temp=explode("</div>",$topis[1]);
       $opis=trim($temp[0]);
       
-      //Картинки
+      //РљР°СЂС‚РёРЅРєРё
       $pics_mas=explode("<ul id=\"imgs\" class=\"list_h\">",$out);
       $mass=explode("jqimg=\"",$pics_mas[1]);
 	  $t_pic=explode("\" jqimg2=",$mass[1]);
@@ -79,14 +80,16 @@ $q=1;
       
       
    // echo "".$row[0]."-$main_cat - $par_cat-$price-$opis<br>";
-		mysql_query("UPDATE articuls SET main_cat='".$main_cat."',par_cat='".$par_cat."',price=".$price.",opis='".$opis."',pic='".$pic."' WHERE id=".$row[0]."");
+		//mysql_query("UPDATE articuls SET main_cat='".$main_cat."',par_cat='".$par_cat."',price=".$price.",opis='".$opis."',pic='".$pic."' WHERE id=".$row[0]."");
+		mysql_query("INSERT INTO articuls1 (id,articul,name,main_cat,par_cat,price,opis) VALUES (".$row[0].",'".$row[1]."','".$row[2]."','".$main_cat."','".$par_cat."',$price,'".$opis."')");
+		//echo $price."<br>";
 		$q++;
           
   }
  // echo "<br><br><br>";      
     }
  //   }
-    echo "Конец!--$q";
+    echo "РљРѕРЅРµС†!--$q";
    /* print_r($rubr);
     print_r($phone);
     print_r($txtAds);

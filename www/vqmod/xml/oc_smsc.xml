@@ -1,0 +1,152 @@
+<modification>
+<!-- @system: info -->
+<id>SMSC.RU v2.7</id>
+<version>1.5.3.1</version>
+<vqmver>2.1.6</vqmver>
+<author>SMSC.RU</author>
+
+<!-- @system: init -->
+<file name="system/engine/controller.php">
+	<operation>
+	<search position="before"><![CDATA[public function __construct($registry) {]]></search>
+	<add>
+		<![CDATA[
+		// [BEGIN]
+
+		protected function oc_smsc_init() {
+
+				// Load language
+				$this->load->language('module/oc_smsc');
+
+				// Load OC SMSC library
+				require_once(DIR_SYSTEM . 'library/oc_smsc/gateway.php');
+
+				// Add to global registry
+				$this->registry->set('oc_smsc_gateway', new OCSMSCGateway($this->registry));
+
+				return true;
+		}
+		// [END]
+		]]>
+	</add>
+	</operation>
+</file>
+
+<!-- @admin: received new message -->
+<file name="catalog/controller/information/contact.php">
+	<operation>
+	<search position="before"><![CDATA[$this->redirect($this->url->link('information/contact/success'));]]></search>
+	<add>
+		<![CDATA[
+			// [BEGIN]
+
+			if (true === $this->oc_smsc_init() && $this->config->get('oc_smsc_admin_new_email')) {
+
+				$this->oc_smsc_gateway->send($this->config->get('oc_smsc_login'), $this->config->get('oc_smsc_password'),
+													$this->config->get('oc_smsc_telephone'), $this->language->get('oc_smsc_message_admin_new_email'),
+													$this->config->get('oc_smsc_signature'));
+			}
+			// [END]
+		]]>
+	</add>
+	</operation>
+</file>
+
+<!-- @admin: new member is registered & @customer: congratulations -->
+<file name="catalog/controller/account/register.php">
+	<operation>
+	<search position="before"><![CDATA[$this->redirect($this->url->link('account/success'));]]></search>
+	<add>
+		<![CDATA[
+			// [BEGIN]
+			if (true === $this->oc_smsc_init() && $this->config->get('oc_smsc_admin_new_customer')) {
+
+				$this->oc_smsc_gateway->send($this->config->get('oc_smsc_login'), $this->config->get('oc_smsc_password'),
+													$this->config->get('oc_smsc_telephone'), $this->language->get('oc_smsc_message_admin_new_customer'),
+													$this->config->get('oc_smsc_signature'));
+			}
+
+			if (true === $this->oc_smsc_init() && $this->config->get('oc_smsc_customer_new_register')) {
+
+				$this->oc_smsc_gateway->send($this->config->get('oc_smsc_login'), $this->config->get('oc_smsc_password'),
+													$this->request->post['telephone'], sprintf($this->language->get('oc_smsc_message_customer_new_register'),
+													$this->config->get('config_name')), $this->config->get('oc_smsc_signature'));
+			}
+			// [END]
+		]]>
+	</add>
+	</operation>
+</file>
+<file name="catalog/controller/checkout/register.php">
+	<operation>
+	<search position="after"><![CDATA[$this->model_account_customer->addCustomer($this->request->post);]]></search>
+	<add>
+		<![CDATA[
+			// [BEGIN]
+
+			if (true === $this->oc_smsc_init() && $this->config->get('oc_smsc_admin_new_customer')) {
+
+				$this->oc_smsc_gateway->send($this->config->get('oc_smsc_login'), $this->config->get('oc_smsc_password'),
+													$this->config->get('oc_smsc_telephone'), $this->language->get('oc_smsc_message_admin_new_customer'),
+													$this->config->get('oc_smsc_signature'));
+			}
+
+			if (true === $this->oc_smsc_init() && $this->config->get('oc_smsc_customer_new_register')) {
+
+				$this->oc_smsc_gateway->send($this->config->get('oc_smsc_login'), $this->config->get('oc_smsc_password'),
+													$this->request->post['telephone'], sprintf($this->language->get('oc_smsc_message_customer_new_register'),
+													$this->config->get('config_name')), $this->config->get('oc_smsc_signature'));
+			}
+			// [END]
+		]]>
+	</add>
+	</operation>
+</file>
+
+<!-- @admin and @customer: new order is available -->
+<file name="catalog/controller/checkout/success.php">
+	<operation>
+	<search position="after"><![CDATA[if (isset($this->session->data['order_id'])) {]]></search>
+	<add>
+		<![CDATA[
+			// [BEGIN]
+
+			if (true === $this->oc_smsc_init()) {
+				if ($this->config->get('oc_smsc_customer_new_order')) {
+					$o_i = $this->oc_smsc_gateway->get_order_info($this->config->get('oc_smsc_textarea_customer_new_order'), $this->session->data['order_id']);
+					$this->oc_smsc_gateway->send($this->config->get('oc_smsc_login'), $this->config->get('oc_smsc_password'), $o_i['phone'], $o_i['message'], $this->config->get('oc_smsc_signature'));
+				}
+
+				if ($this->config->get('oc_smsc_admin_new_order')) {
+					$o_i = $this->oc_smsc_gateway->get_order_info($this->config->get('oc_smsc_textarea_admin_new_order'), $this->session->data['order_id']);
+					$this->oc_smsc_gateway->send($this->config->get('oc_smsc_login'), $this->config->get('oc_smsc_password'), $this->config->get('oc_smsc_telephone'), $o_i['message'], $this->config->get('oc_smsc_signature'));
+				}
+			}
+			// [END]
+		]]>
+	</add>
+	</operation>
+</file>
+
+<!-- @customer: new order status is available -->
+<file name="admin/controller/sale/order.php">
+	<operation>
+	<search position="before"><![CDATA[$this->model_sale_order->addOrderHistory($this->request->get['order_id'], $this->request->post);]]></search>
+	<add>
+		<![CDATA[
+			// [BEGIN]
+
+			if (true === $this->oc_smsc_init() && $this->config->get('oc_smsc_customer_new_order_status') && $this->request->post['notify']
+				&& (($mes_st = $this->config->get('oc_smsc_status_id_'.($osid = $this->request->post['order_status_id']))) != "")) {
+				$o_i = $this->oc_smsc_gateway->get_order_info($mes_st, $this->request->get['order_id'], $osid);
+
+				if ($o_i['order_status_id'] != $osid)
+						$this->oc_smsc_gateway->send($this->config->get('oc_smsc_login'), $this->config->get('oc_smsc_password'), $o_i['phone'],
+													$o_i['message'], $this->config->get('oc_smsc_signature'));
+			}
+			// [END]
+		]]>
+	</add>
+	</operation>
+</file>
+</modification>
