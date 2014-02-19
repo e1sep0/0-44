@@ -531,3 +531,325 @@
 2014-02-18 0:13:53 - PHP Notice:  Undefined variable: bank_swift_code in Z:\home\ocStore\www\admin_frolov\view\template\sale\affiliate_form.tpl on line 219
 2014-02-18 0:13:53 - PHP Notice:  Undefined variable: bank_account_name in Z:\home\ocStore\www\admin_frolov\view\template\sale\affiliate_form.tpl on line 223
 2014-02-18 0:13:53 - PHP Notice:  Undefined variable: bank_account_number in Z:\home\ocStore\www\admin_frolov\view\template\sale\affiliate_form.tpl on line 227
+2014-02-18 9:29:47 - PHP Warning:  fopen(Z:\home\ocStore\www/image/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in Z:\home\ocStore\www\admin_frolov\controller\common\home.php on line 65
+2014-02-18 9:29:47 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin_frolov\controller\common\home.php on line 67
+2014-02-18 9:29:47 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin_frolov\controller\common\home.php on line 69
+2014-02-18 9:29:47 - PHP Warning:  unlink(Z:\home\ocStore\www/image/cache/test) [<a href='function.unlink'>function.unlink</a>]: Permission denied in Z:\home\ocStore\www\admin_frolov\controller\common\home.php on line 76
+2014-02-18 9:42:26 - PHP Warning:  fopen(Z:\home\ocStore\www/image/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in Z:\home\ocStore\www\admin_frolov\controller\common\home.php on line 65
+2014-02-18 9:42:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin_frolov\controller\common\home.php on line 67
+2014-02-18 9:42:26 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin_frolov\controller\common\home.php on line 69
+2014-02-18 9:42:26 - PHP Warning:  unlink(Z:\home\ocStore\www/image/cache/test) [<a href='function.unlink'>function.unlink</a>]: Permission denied in Z:\home\ocStore\www\admin_frolov\controller\common\home.php on line 76
+2014-02-18 9:42:29 - PHP Warning:  fopen(Z:\home\ocStore\www/image/cache/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in Z:\home\ocStore\www\admin_frolov\controller\common\home.php on line 65
+2014-02-18 9:42:29 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin_frolov\controller\common\home.php on line 67
+2014-02-18 9:42:29 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in Z:\home\ocStore\www\admin_frolov\controller\common\home.php on line 69
+2014-02-18 9:42:29 - PHP Warning:  unlink(Z:\home\ocStore\www/image/cache/test) [<a href='function.unlink'>function.unlink</a>]: Permission denied in Z:\home\ocStore\www\admin_frolov\controller\common\home.php on line 76
+2014-02-18 10:34:20 - PHP Notice:  Undefined index: enable_async in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 143
+2014-02-18 10:34:20 - PHP Notice:  Undefined index: enable_async in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 143
+2014-02-18 10:34:20 - PHP Notice:  Undefined index: is_striped in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 277
+2014-02-18 10:34:20 - PHP Notice:  Undefined index: is_striped in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 277
+2014-02-18 10:34:20 - PHP Notice:  Undefined index: show_custom_code in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 297
+2014-02-18 10:34:20 - PHP Notice:  Undefined index: show_custom_code in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 297
+2014-02-18 10:34:27 - PHP Notice:  Undefined index: enable_async in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 143
+2014-02-18 10:34:27 - PHP Notice:  Undefined index: enable_async in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 143
+2014-02-18 10:34:27 - PHP Notice:  Undefined index: is_striped in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 277
+2014-02-18 10:34:27 - PHP Notice:  Undefined index: is_striped in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 277
+2014-02-18 10:34:27 - PHP Notice:  Undefined index: show_custom_code in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 297
+2014-02-18 10:34:27 - PHP Notice:  Undefined index: show_custom_code in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 297
+2014-02-18 10:36:00 - PHP Notice:  Undefined index: enable_async in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 143
+2014-02-18 10:36:00 - PHP Notice:  Undefined index: enable_async in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 143
+2014-02-18 10:36:00 - PHP Notice:  Undefined index: is_striped in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 277
+2014-02-18 10:36:00 - PHP Notice:  Undefined index: is_striped in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 277
+2014-02-18 10:36:00 - PHP Notice:  Undefined index: show_custom_code in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 297
+2014-02-18 10:36:00 - PHP Notice:  Undefined index: show_custom_code in Z:\home\ocStore\www\admin_frolov\view\template\module\ecslideshow\module.tpl on line 297
+2014-02-18 10:52:18 - PHP Notice:  Undefined variable: customer_blacklist in Z:\home\ocStore\www\admin_frolov\view\template\common\header.tpl on line 100
+2014-02-18 10:52:18 - PHP Notice:  Undefined variable: text_customer_blacklist in Z:\home\ocStore\www\admin_frolov\view\template\common\header.tpl on line 100
+2014-02-18 10:52:23 - PHP Notice:  Undefined variable: customer_blacklist in Z:\home\ocStore\www\admin_frolov\view\template\common\header.tpl on line 100
+2014-02-18 10:52:23 - PHP Notice:  Undefined variable: text_customer_blacklist in Z:\home\ocStore\www\admin_frolov\view\template\common\header.tpl on line 100
+2014-02-18 10:52:32 - PHP Notice:  Undefined variable: customer_blacklist in Z:\home\ocStore\www\admin_frolov\view\template\common\header.tpl on line 100
+2014-02-18 10:52:32 - PHP Notice:  Undefined variable: text_customer_blacklist in Z:\home\ocStore\www\admin_frolov\view\template\common\header.tpl on line 100
+2014-02-18 10:52:32 - PHP Notice:  Undefined variable: button_filter in Z:\home\ocStore\www\admin_frolov\view\template\catalog\product_list.tpl on line 75
+2014-02-18 10:53:11 - PHP Notice:  Undefined variable: customer_blacklist in Z:\home\ocStore\www\admin_frolov\view\template\common\header.tpl on line 100
+2014-02-18 10:53:11 - PHP Notice:  Undefined variable: text_customer_blacklist in Z:\home\ocStore\www\admin_frolov\view\template\common\header.tpl on line 100
+2014-02-18 12:38:35 - PHP Notice:  Undefined variable: categories in Z:\home\ocStore\www\catalog\controller\common\header.php on line 117
+2014-02-18 12:38:35 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\ocStore\www\catalog\controller\common\header.php on line 117
+2014-02-18 12:38:43 - PHP Notice:  Undefined variable: categories in Z:\home\ocStore\www\catalog\controller\common\header.php on line 117
+2014-02-18 12:38:43 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\ocStore\www\catalog\controller\common\header.php on line 117
+2014-02-18 12:39:08 - PHP Notice:  Undefined variable: categories in Z:\home\ocStore\www\catalog\controller\common\header.php on line 117
+2014-02-18 12:39:08 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\ocStore\www\catalog\controller\common\header.php on line 117
+2014-02-18 12:39:10 - PHP Notice:  Undefined variable: categories in Z:\home\ocStore\www\catalog\controller\common\header.php on line 117
+2014-02-18 12:39:10 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\ocStore\www\catalog\controller\common\header.php on line 117
+2014-02-18 12:39:19 - PHP Notice:  Undefined variable: categories in Z:\home\ocStore\www\catalog\controller\common\header.php on line 117
+2014-02-18 12:39:19 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\ocStore\www\catalog\controller\common\header.php on line 117
+2014-02-18 13:09:01 - PHP Notice:  Undefined variable: categories in Z:\home\ocStore\www\catalog\controller\common\header.php on line 117
+2014-02-18 13:09:01 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\ocStore\www\catalog\controller\common\header.php on line 117
+2014-02-18 15:28:46 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be long, string given in Z:\home\ocStore\www\system\library\image.php on line 96
+2014-02-18 15:28:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 104
+2014-02-18 15:28:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 107
+2014-02-18 15:28:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 109
+2014-02-18 15:28:46 - PHP Warning:  substr() expects parameter 3 to be long, string given in Z:\home\ocStore\www\catalog\controller\module\yaslider.php on line 75
+2014-02-18 15:28:46 - PHP Warning:  substr() expects parameter 3 to be long, string given in Z:\home\ocStore\www\catalog\controller\module\yaslider.php on line 75
+2014-02-18 15:29:09 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be long, string given in Z:\home\ocStore\www\system\library\image.php on line 96
+2014-02-18 15:29:09 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 104
+2014-02-18 15:29:09 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 107
+2014-02-18 15:29:09 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 109
+2014-02-18 15:29:09 - PHP Warning:  substr() expects parameter 3 to be long, string given in Z:\home\ocStore\www\catalog\controller\module\yaslider.php on line 75
+2014-02-18 15:29:09 - PHP Warning:  substr() expects parameter 3 to be long, string given in Z:\home\ocStore\www\catalog\controller\module\yaslider.php on line 75
+2014-02-18 15:29:48 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be long, string given in Z:\home\ocStore\www\system\library\image.php on line 96
+2014-02-18 15:29:48 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 104
+2014-02-18 15:29:48 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 107
+2014-02-18 15:29:48 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 109
+2014-02-18 15:29:48 - PHP Warning:  substr() expects parameter 3 to be long, string given in Z:\home\ocStore\www\catalog\controller\module\yaslider.php on line 75
+2014-02-18 15:29:48 - PHP Warning:  substr() expects parameter 3 to be long, string given in Z:\home\ocStore\www\catalog\controller\module\yaslider.php on line 75
+2014-02-18 15:30:53 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be long, string given in Z:\home\ocStore\www\system\library\image.php on line 96
+2014-02-18 15:30:53 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 104
+2014-02-18 15:30:53 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 107
+2014-02-18 15:30:53 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 109
+2014-02-18 15:30:53 - PHP Warning:  substr() expects parameter 3 to be long, string given in Z:\home\ocStore\www\catalog\controller\module\yaslider.php on line 75
+2014-02-18 15:30:53 - PHP Warning:  substr() expects parameter 3 to be long, string given in Z:\home\ocStore\www\catalog\controller\module\yaslider.php on line 75
+2014-02-18 15:32:12 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be long, string given in Z:\home\ocStore\www\system\library\image.php on line 96
+2014-02-18 15:32:12 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 104
+2014-02-18 15:32:12 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 107
+2014-02-18 15:32:12 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 109
+2014-02-18 15:32:12 - PHP Warning:  substr() expects parameter 3 to be long, string given in Z:\home\ocStore\www\catalog\controller\module\yaslider.php on line 75
+2014-02-18 15:35:11 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be long, string given in Z:\home\ocStore\www\system\library\image.php on line 96
+2014-02-18 15:35:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 104
+2014-02-18 15:35:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 107
+2014-02-18 15:35:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in Z:\home\ocStore\www\system\library\image.php on line 109
+2014-02-18 15:35:11 - PHP Warning:  substr() expects parameter 3 to be long, string given in Z:\home\ocStore\www\catalog\controller\module\yaslider.php on line 75
+2014-02-18 15:36:52 - PHP Warning:  substr() expects parameter 3 to be long, string given in Z:\home\ocStore\www\catalog\controller\module\yaslider.php on line 75
+2014-02-18 15:37:21 - PHP Warning:  substr() expects parameter 3 to be long, string given in Z:\home\ocStore\www\catalog\controller\module\yaslider.php on line 75
+2014-02-18 16:08:50 - PHP Warning:  substr() expects parameter 3 to be long, string given in Z:\home\ocStore\www\catalog\controller\module\yaslider.php on line 75
+2014-02-18 16:25:29 - PHP Notice:  Undefined index: conf in Z:\home\ocStore\www\index.php on line 171
+2014-02-18 16:26:27 - PHP Notice:  Undefined index: conf in Z:\home\ocStore\www\index.php on line 171
+2014-02-18 20:43:41 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-18 20:45:08 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-18 20:49:33 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-18 20:57:11 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:11 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:11 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:11 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:11 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:11 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:11 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:11 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:11 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:11 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:11 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:11 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:19 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:19 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:19 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:19 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:19 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:19 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:19 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:19 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:19 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:19 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:19 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:57:19 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:10 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:10 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:10 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:10 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:10 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:10 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:10 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:10 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:10 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:10 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:10 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:10 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:16 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:16 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:16 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:16 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:16 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:16 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:16 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:16 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:16 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:16 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:16 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:16 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:27 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:27 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:27 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:27 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:27 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:27 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:27 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:27 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:27 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:27 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:27 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 20:58:27 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:35 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:35 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:35 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:35 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:35 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:35 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:35 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:35 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:35 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:35 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:35 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:35 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:42 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:42 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:42 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:42 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:42 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:42 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:42 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:42 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:42 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:42 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:42 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:42 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:44 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:44 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:44 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:44 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:44 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:44 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:44 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:44 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:44 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:44 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:44 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:01:44 - PHP Notice:  Undefined variable: l3_data in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/controller/module/category.php on line 82
+2014-02-18 21:04:55 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: entry_tax in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 120
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: tax in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 121
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: text_cheque in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 130
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: text_paypal in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 136
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: text_bank in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 142
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: entry_cheque in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 165
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: cheque in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 166
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: entry_paypal in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 171
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: paypal in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 172
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: entry_bank_name in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 177
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: bank_name in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 178
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: entry_bank_branch_number in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 181
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: bank_branch_number in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 182
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: entry_bank_swift_code in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 185
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: bank_swift_code in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 186
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: entry_bank_account_name in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 189
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: bank_account_name in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 190
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: entry_bank_account_number in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 193
+2014-02-18 21:12:21 - PHP Notice:  Undefined variable: bank_account_number in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/affiliate/register.tpl on line 194
+2014-02-18 21:37:17 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/ocstore/www/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-18 22:00:31 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-18 22:21:48 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-18 22:35:51 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-18 22:50:20 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-18 23:22:53 - PHP Notice:  Error: Could not load language module/cartpopup! in /var/www/u8950171/data/www/0-44.ru/system/library/language.php on line 39
+2014-02-18 23:22:57 - PHP Notice:  Error: Could not load language module/cartpopup! in /var/www/u8950171/data/www/0-44.ru/system/library/language.php on line 39
+2014-02-18 23:23:06 - PHP Notice:  Error: Could not load language module/cartpopup! in /var/www/u8950171/data/www/0-44.ru/system/library/language.php on line 39
+2014-02-18 23:24:25 - PHP Notice:  Error: Could not load language module/cartpopup! in /var/www/u8950171/data/www/0-44.ru/system/library/language.php on line 39
+2014-02-18 23:46:37 - PHP Notice:  Error: Could not load language module/cartpopup! in /var/www/u8950171/data/www/0-44.ru/system/library/language.php on line 39
+2014-02-19 0:17:00 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 9:29:23 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 9:30:12 - PHP Notice:  Undefined variable: result in /var/www/u8950171/data/www/0-44.ru/catalog/model/checkout/order.php on line 524
+2014-02-19 9:30:12 - PHP Notice:  Undefined variable: result in /var/www/u8950171/data/www/0-44.ru/catalog/model/checkout/order.php on line 526
+2014-02-19 9:30:12 - PHP Notice:  Undefined variable: result in /var/www/u8950171/data/www/0-44.ru/catalog/model/checkout/order.php on line 526
+2014-02-19 9:30:12 - PHP Notice:  Undefined variable: result in /var/www/u8950171/data/www/0-44.ru/catalog/model/checkout/order.php on line 526
+2014-02-19 9:38:19 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 9:38:49 - PHP Notice:  Undefined variable: result in /var/www/u8950171/data/www/0-44.ru/catalog/model/checkout/order.php on line 524
+2014-02-19 9:38:49 - PHP Notice:  Undefined variable: result in /var/www/u8950171/data/www/0-44.ru/catalog/model/checkout/order.php on line 526
+2014-02-19 9:38:49 - PHP Notice:  Undefined variable: result in /var/www/u8950171/data/www/0-44.ru/catalog/model/checkout/order.php on line 526
+2014-02-19 9:38:49 - PHP Notice:  Undefined variable: result in /var/www/u8950171/data/www/0-44.ru/catalog/model/checkout/order.php on line 526
+2014-02-19 9:44:30 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 9:44:51 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 9:55:03 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 10:07:40 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 10:17:53 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 10:34:31 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 10:46:52 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 10:47:12 - PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to smtp.mail.ru:25 (No route to host) in /var/www/u8950171/data/www/0-44.ru/system/library/mail.php on line 153
+2014-02-19 10:47:12 - PHP Notice:  Error: No route to host (113) in /var/www/u8950171/data/www/0-44.ru/system/library/mail.php on line 156
+2014-02-19 11:15:16 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 12:09:45 - PHP Notice:  Error: Could not load model total/socialdiscount! in /var/www/u8950171/data/www/0-44.ru/vqmod/vqcache/vq2-system_engine_loader.php on line 48
+2014-02-19 12:09:49 - PHP Notice:  Error: Could not load model total/socialdiscount! in /var/www/u8950171/data/www/0-44.ru/vqmod/vqcache/vq2-system_engine_loader.php on line 48
+2014-02-19 12:09:50 - PHP Notice:  Error: Could not load model total/socialdiscount! in /var/www/u8950171/data/www/0-44.ru/vqmod/vqcache/vq2-system_engine_loader.php on line 48
+2014-02-19 12:31:56 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 12:31:57 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 12:34:50 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 12:49:43 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 12:51:13 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 12:54:01 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 12:56:30 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 13:00:19 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 13:02:12 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 14:17:58 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 14:20:29 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 14:37:58 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 14:39:20 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 14:40:03 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 14:40:03 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 14:40:03 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 14:40:04 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 15:06:09 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 15:09:51 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 15:12:01 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 15:14:21 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 15:17:19 - PHP Notice:  Undefined variable: zone_id in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/checkout/checkout.tpl on line 257
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: entry_tax in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 120
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: tax in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 121
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: text_cheque in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 130
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: text_paypal in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 136
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: text_bank in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 142
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: entry_cheque in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 165
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: cheque in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 166
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: entry_paypal in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 171
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: paypal in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 172
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: entry_bank_name in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 177
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: bank_name in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 178
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: entry_bank_branch_number in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 181
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: bank_branch_number in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 182
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: entry_bank_swift_code in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 185
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: bank_swift_code in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 186
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: entry_bank_account_name in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 189
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: bank_account_name in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 190
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: entry_bank_account_number in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 193
+2014-02-19 15:23:33 - PHP Notice:  Undefined variable: bank_account_number in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 194
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: entry_tax in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 120
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: tax in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 121
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: text_cheque in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 130
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: text_paypal in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 136
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: text_bank in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 142
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: entry_cheque in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 165
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: cheque in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 166
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: entry_paypal in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 171
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: paypal in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 172
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: entry_bank_name in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 177
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: bank_name in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 178
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: entry_bank_branch_number in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 181
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: bank_branch_number in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 182
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: entry_bank_swift_code in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 185
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: bank_swift_code in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 186
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: entry_bank_account_name in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 189
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: bank_account_name in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 190
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: entry_bank_account_number in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 193
+2014-02-19 15:24:34 - PHP Notice:  Undefined variable: bank_account_number in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 194
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: entry_tax in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 120
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: tax in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 121
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: text_cheque in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 130
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: text_paypal in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 136
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: text_bank in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 142
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: entry_cheque in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 165
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: cheque in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 166
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: entry_paypal in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 171
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: paypal in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 172
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: entry_bank_name in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 177
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: bank_name in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 178
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: entry_bank_branch_number in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 181
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: bank_branch_number in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 182
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: entry_bank_swift_code in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 185
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: bank_swift_code in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 186
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: entry_bank_account_name in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 189
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: bank_account_name in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 190
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: entry_bank_account_number in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 193
+2014-02-19 15:24:45 - PHP Notice:  Undefined variable: bank_account_number in /var/www/u8950171/data/www/0-44.ru/catalog/view/theme/default/template/affiliate/register.tpl on line 194

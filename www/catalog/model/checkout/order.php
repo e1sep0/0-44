@@ -498,20 +498,31 @@ class ModelCheckoutOrder extends Model {
 			$mail->setHtml($html);
 			$mail->setText(html_entity_decode($text, ENT_QUOTES, 'UTF-8'));
 			$mail->send();
+			
 
 			// Admin Alert Mail
 			if ($this->config->get('config_alert_mail')) {
 				$subject = sprintf($language->get('text_new_subject'), html_entity_decode($this->config->get('config_name'), ENT_QUOTES, 'UTF-8'), $order_id);
 				
 				// Text 
-				$text  = $language->get('text_new_received') . "\n\n";
-				$text .= $language->get('text_new_order_id') . ' ' . $order_id . "\n";
-				$text .= $language->get('text_new_date_added') . ' ' . date($language->get('date_format_short'), strtotime($order_info['date_added'])) . "\n";
-				$text .= $language->get('text_new_order_status') . ' ' . $order_status . "\n\n";
+				//$text  = $language->get('text_new_received') . "\n\n";
+				//$text .= $language->get('text_new_order_id') . ' ' . $order_id . "\n";
+				//$text .= $language->get('text_new_date_added') . ' ' . date($language->get('date_format_short'), strtotime($order_info['date_added'])) . "\n";
+				//$text .= $language->get('text_new_order_status') . ' ' . $order_status . "\n\n";
+				$text  = $language->get('text_new_received') . ' #'.$order_id . ' ('.date($language->get('date_format_short'), strtotime($order_info['date_added'])).')' . "\n";
+				$text .= $language->get('text_new_order_status') . ' ' . strip_tags($order_status) . "\n\n";
+				if( !empty($order_info['payment_method']) ) $text .= 'payment method: ' . $order_info['payment_method'] . "\n";
+				if( !empty($order_info['email']) )     $text .= 'email: ' . $order_info['email'] . "\n";
+				if( !empty($order_info['telephone']) ) $text .= 'telephone: ' . $order_info['telephone'] . ", ";
+			//	$text .= 'IP: http://geoiptool.com/en/?IP=' . $order_info['ip'] . "\n\n";
 				$text .= $language->get('text_new_products') . "\n";
 				
 				foreach ($order_product_query->rows as $product) {
-					$text .= $product['quantity'] . 'x ' . $product['name'] . ' (' . $product['model'] . ') ' . html_entity_decode($this->currency->format($product['total'] + ($this->config->get('config_tax') ? ($product['tax'] * $product['quantity']) : 0), $order_info['currency_code'], $order_info['currency_value']), ENT_NOQUOTES, 'UTF-8') . "\n";
+					$text .= '  ';
+					$text .= html_entity_decode($this->currency->format($product['total'], $order_info['currency_code'], $order_info['currency_value']), ENT_NOQUOTES, 'UTF-8');
+					$text .= ' = ';
+					$text .= $product['quantity'] . ' x ' . $product['name'] . ' (' . $product['model'] . ")\n";
+					//$text .= $product['quantity'] . 'x ' . $product['name'] . ' (' . $product['model'] . ') ' . html_entity_decode($this->currency->format($product['total'] + ($this->config->get('config_tax') ? ($product['tax'] * $product['quantity']) : 0), $order_info['currency_code'], $order_info['currency_value']), ENT_NOQUOTES, 'UTF-8') . "\n";
 					
 					$order_option_query = $this->db->query("SELECT * FROM " . DB_PREFIX . "order_option WHERE order_id = '" . (int)$order_id . "' AND order_product_id = '" . $product['order_product_id'] . "'");
 					
@@ -535,6 +546,7 @@ class ModelCheckoutOrder extends Model {
 				$text .= $language->get('text_new_order_total') . "\n";
 				
 				foreach ($order_total_query->rows as $total) {
+					$text .= '  ';
 					$text .= $total['title'] . ': ' . html_entity_decode($total['text'], ENT_NOQUOTES, 'UTF-8') . "\n";
 				}			
 				
@@ -559,6 +571,7 @@ class ModelCheckoutOrder extends Model {
 				$mail->setSubject(html_entity_decode($subject, ENT_QUOTES, 'UTF-8'));
 				$mail->setText(html_entity_decode($text, ENT_QUOTES, 'UTF-8'));
 				$mail->send();
+				
 				
 				// Send to additional alert emails
 				$emails = explode(',', $this->config->get('config_alert_emails'));
@@ -685,6 +698,7 @@ class ModelCheckoutOrder extends Model {
 				$mail->setSubject(html_entity_decode($subject, ENT_QUOTES, 'UTF-8'));
 				$mail->setText(html_entity_decode($message, ENT_QUOTES, 'UTF-8'));
 				$mail->send();
+				sleep(5);
 			}
 		}
 	}
